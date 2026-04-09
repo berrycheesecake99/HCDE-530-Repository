@@ -1,0 +1,12 @@
+---
+description: Static HTML dashboard conventions (Chart.js, embedded CSV)
+globs: "**/*.html"
+alwaysApply: false
+---
+
+# Dashboard HTML (`dashboard.html`)
+
+- **Local `file://`**: prefer **embedded CSV** or a documented fallback so charts work without a dev server; optionally **fetch** `demo_responses.csv` when served over HTTP.
+- **Chart.js** is loaded from a CDN; call out that **offline** use needs a cached copy or no charts.
+- If the CSV is duplicated inside the HTML, **keep it in sync** with `demo_responses.csv` when the data changes.
+- Build table rows with **DOM APIs** (`textContent`) for response text, not `innerHTML`, to avoid injection issues if data changes.

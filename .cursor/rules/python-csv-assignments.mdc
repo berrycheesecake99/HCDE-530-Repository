@@ -1,0 +1,23 @@
+---
+description: Python + CSV patterns for HCDE 530 Week 1 style scripts
+globs: "**/*.py"
+alwaysApply: false
+---
+
+# Python and CSV
+
+## Reading survey-style CSVs
+
+- Use `csv.DictReader` with `encoding="utf-8"` and `newline=""` in `open()`.
+- Keep the data filename in a variable (e.g. `filename = "demo_responses.csv"`) next to the script when the CSV is colocated.
+
+```python
+with open(filename, newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        ...
+```
+
+## Consistency
+
+- Align new scripts with `Week 1/demo_word_count.py`: straightforward structure, small focused functions, short docstrings where they clarify behavior.

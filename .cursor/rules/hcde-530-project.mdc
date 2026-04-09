@@ -1,0 +1,22 @@
+---
+description: HCDE 530 repo layout, git boundaries, and general expectations
+alwaysApply: true
+---
+
+# HCDE 530 — project context
+
+## Repository layout
+
+- **Course root** (`HCDE 530 Repository/`): may hold course-wide files (e.g. root `.gitignore`).
+- **`Week 1/`** is a **separate Git repository** (its own `.git`). Coursework for that week lives **inside** `Week 1/`.
+- The parent repo **ignores** `Week 1/` in `.gitignore` so nested-repo files are not double-tracked.
+
+## Git and GitHub
+
+- To publish **Week 1** work: commit and push from **`Week 1/`** (remote is the Week 1 GitHub repo).
+- Do not `git add` files inside `Week 1/` from the **parent** repo when fixing Week 1—work in the nested repo instead.
+
+## Style of help
+
+- Prefer **clear, coursework-appropriate** explanations and code; match existing file style (see `Week 1/demo_word_count.py`).
+- Avoid drive-by refactors outside the requested task; do not add docs the user did not ask for.

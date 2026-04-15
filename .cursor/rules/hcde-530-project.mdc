@@ -5,7 +5,7 @@ alwaysApply: true
 
 # HCDE 530 — project context
 
-Author background, audience, deadlines, and submission flow: see **`PROJECT_CONTEXT.md`** at the repo root.
+Author background, audience, deadlines, and submission flow: see **`context.md`** at the repo root.
 
 ## Repository layout
 
@@ -20,5 +20,5 @@ Author background, audience, deadlines, and submission flow: see **`PROJECT_CONT
 
 ## Style of help
 
-- Maintainer is a **UX designer**, not a software engineer: favor **plain language**, **small scoped changes**, and **run + submit checklists** when delivering code (see `PROJECT_CONTEXT.md`).
+- Maintainer is a **UX designer**, not a software engineer: favor **plain language**, **small scoped changes**, and **run + submit checklists** when delivering code (see `context.md`).
 - Match existing file style (e.g. `Week 1/demo_word_count.py`); avoid drive-by refactors; do not add docs the user did not ask for.

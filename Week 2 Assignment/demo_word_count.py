@@ -1,5 +1,6 @@
 import csv
 
+# Reader walkthrough: context.md in this folder (how the word count works + CSV provenance).
 
 # --- Load the survey data from disk ---
 # We keep the file name in one place so it is easy to change if the instructor
@@ -17,7 +18,7 @@ with open(filename, newline="", encoding="utf-8") as f:
     for row in reader:
         responses.append(row)
 
-
+#function to count the words in a response
 def count_words(response):
     """Count the number of words in a response string.
 

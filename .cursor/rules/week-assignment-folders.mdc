@@ -1,0 +1,24 @@
+---
+description: Week 2+ assignment folders — git, colocated files, dashboard + CSV sync
+globs: "**/Week * Assignment/**"
+alwaysApply: false
+---
+
+# Week assignment folders (`Week 2 Assignment/`, etc.)
+
+## Git
+
+- These folders live in the **course root repo** (unlike **`Week 1/`**, which is a nested repository ignored by the parent). Commit and push **Week 2+** work from **`HCDE 530 Repository/`**, not from a separate repo inside the week folder.
+
+## Layout
+
+- Keep each assignment self-contained: Python script(s), CSV, and optional `dashboard.html` **in the same folder** so paths like `filename = "demo_responses.csv"` and `fetch("demo_responses.csv")` stay simple.
+
+## Python + CSV + HTML together
+
+- Follow **`python-csv-assignments.mdc`** for reading CSVs (`DictReader`, `newline=""`, `encoding="utf-8"`).
+- If **`dashboard.html`** embeds a copy of the CSV for `file://` use, **update that embedded block whenever the CSV changes** (see **`dashboard-html.mdc`**). Prefer `textContent` for table cells that show response text.
+
+## Style
+
+- Match the tone and structure of existing week scripts (small functions, short comments where they help); avoid scope creep and unsolicited new documentation files.

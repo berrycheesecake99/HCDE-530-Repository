@@ -1,0 +1,81 @@
+# HCDE 530 — Cursor rules (course repository)
+
+Course context, deadlines, and submission flow: see `context.md` at the repo root.
+
+## Directory structure (course root)
+
+Update this tree whenever top-level folders, `.cursor/rules`, or notable assignment files are added, renamed, or removed (see **Keeping `.cursorrules` in sync** below).
+
+Last structure audit: 2026-04-15
+
+```
+HCDE 530 Repository/
+├── .cursor/
+│   └── rules/
+│       ├── dashboard-html.mdc
+│       ├── hcde-530-project.mdc
+│       ├── python-csv-assignments.mdc
+│       └── week-assignment-folders.mdc
+├── .cursorrules
+├── context.md                 # course-level project context (points to Week 2 Assignment/context.md)
+├── .gitignore
+├── Week 1/                              # separate git repo — parent .gitignore ignores this folder
+│   ├── .gitignore
+│   ├── app_review_summary.py
+│   ├── app_reviews.csv
+│   ├── dashboard.html
+│   ├── survey_responses.csv
+│   └── survey_word_summary.py
+└── Week 2 Assignment/
+    ├── context.md               # Week 2: word-count walkthrough + CSV provenance
+    ├── dashboard.html
+    ├── demo_responses.csv
+    └── demo_word_count.py
+```
+
+Quick check from course root (omits `.git` and `.DS_Store`):
+
+```bash
+find . -maxdepth 3 \( -name .git -o -name .DS_Store \) -prune -o -type f -print | LC_ALL=C sort
+```
+
+## Keeping `.cursorrules` in sync
+
+- **Cursor agents:** If a change alters where work lives (new `Week * Assignment/`, new rules under `.cursor/rules/`, new tracked scripts or data next to assignments, or renames/moves of items shown in **Directory structure**), update the tree in this file in the same pass or immediately after so it stays accurate.
+- **Humans:** After reorganizing folders, refresh the tree (edit by hand or use the `find` command above, then paste into the code block).
+
+## Repository layout and Git
+
+- **Course root** (`HCDE 530 Repository/`): holds course-wide files (e.g. root `.gitignore`).
+- **`Week 1/`** is a **separate Git repository** (its own `.git`). The parent repo **ignores** `Week 1/` in `.gitignore` so nested-repo files are not double-tracked.
+- To publish **Week 1** work: commit and push from **`Week 1/`** only. Do not `git add` files inside `Week 1/` from the **parent** repo when fixing Week 1.
+- **`Week 2 Assignment/`** and similar **Week N Assignment** folders live in the **parent course repo**. Commit and push Week 2+ work from the course root, not from a nested repo inside those folders.
+
+## How to help
+
+- Maintainer is a **UX designer**, not a software engineer: use **plain language**, **small scoped changes**, and **run + submit checklists** when useful.
+- Match existing assignment style; avoid drive-by refactors; do not add documentation files unless the user asks.
+
+## Python and CSV
+
+- Use `csv.DictReader` with `encoding="utf-8"` and `newline=""` in `open()`.
+- Keep the CSV filename in a variable at the top of the script when the file sits next to the script (e.g. `filename = "demo_responses.csv"`).
+- Prefer straightforward structure, small focused functions, and short docstrings only where they clarify behavior.
+
+```python
+with open(filename, newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        ...
+```
+
+## Assignment folder layout (Week 2+)
+
+- Keep each assignment self-contained: Python, CSV, and optional `dashboard.html` in the **same folder** so relative paths stay simple.
+
+## Static HTML dashboards
+
+- For **local `file://`**: embed a copy of the CSV (or document a fallback) so Chart.js dashboards work without a dev server; optionally `fetch` the CSV when served over HTTP.
+- **Chart.js** from a CDN: offline use needs a cached script or charts will not load.
+- If CSV text is duplicated inside HTML, **keep it in sync** with the real `.csv` when data changes.
+- Build table cells for free-text responses with **DOM APIs** (`textContent`), not `innerHTML`, so changing data does not create injection risk.

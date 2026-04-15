@@ -55,8 +55,7 @@ for row in responses:
 
     print(f"{participant:<6} {role:<22} {count:<6} {preview}")
 
-# --- Summary across everyone ---
-# These numbers answer "how long are answers overall?" for a quick desk check.
+#count words in each response and print the summary
 print()
 print("── Summary ─────────────────────────────────")
 print(f"  Total responses : {len(word_counts)}")

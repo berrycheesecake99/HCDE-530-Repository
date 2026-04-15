@@ -8,7 +8,7 @@ Open `demo_word_count.py` next to this document while you read.
 
 ## Dataset provenance and privacy (`demo_responses.csv`)
 
-**For readers and write-ups:** The free-text responses are **paraphrased from real themes** that commonly appear in UX and research work (e.g. time pressure, synthesis, stakeholder alignment). They are **not verbatim quotes** from identifiable individuals. IDs like **P01–P25** and **role labels** support the exercise; treat the file as **illustrative course material**, not a dataset of real participants.
+**For readers and write-ups:** The free-text responses are **paraphrased from real themes** that commonly appear in UX and research work (e.g. time pressure, synthesis, stakeholder alignment). They are **not verbatim quotes** from identifiable individuals. IDs like **P01–P25** and **role labels** support the exercise; treat the file as **illustrative course material**, not a dataset of real participants. **P26–P33** add **fictional app-store-style reviews** (same instructional use: practice counting and scanning varied text).
 
 If you replace this CSV with different material, update this section with a clear **one-sentence** description of the new source (fictional only, paraphrased themes, or de-identified real data) so privacy expectations stay accurate. If the course expects a single repo-wide note, align with **`context.md`** at the repository root as well.
 

@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Cursor (local editor metadata)
+.cursor/.DS_Store

@@ -40,11 +40,17 @@ for row in rows:
 avg_experience = total_experience / experience_count if experience_count else 0.0
 print(f"\nAverage years of experience: {avg_experience:.1f}")
 
-# Find the top 5 highest satisfaction scores
+# Find the top 5 highest satisfaction scores (skip blank or non-numeric scores)
 scored_rows = []
 for row in rows:
-    if row["satisfaction_score"].strip():
-        scored_rows.append((row["participant_name"], int(row["satisfaction_score"])))
+    raw_score = row["satisfaction_score"].strip()
+    if not raw_score:
+        continue
+    try:
+        score = int(raw_score)
+    except ValueError:
+        continue
+    scored_rows.append((row["participant_name"], score))
 
 scored_rows.sort(key=lambda x: x[1], reverse=True)
 top5 = scored_rows[:5]

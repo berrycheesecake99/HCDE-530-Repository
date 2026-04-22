@@ -38,7 +38,7 @@ TOOL_CANONICAL = {
     "vs code": "VS Code",
 }
 
-
+# Normalizes the tool
 def normalize_tool(raw):
     s = raw.strip()
     if not s:
@@ -48,7 +48,7 @@ def normalize_tool(raw):
         return TOOL_CANONICAL[key]
     return s
 
-
+# Parses the experience years
 def parse_experience_years(raw):
     raw = raw.strip()
     if not raw:
@@ -61,7 +61,7 @@ def parse_experience_years(raw):
             return str(w)
     return ""
 
-
+# Parses the satisfaction score
 def parse_satisfaction(raw):
     raw = raw.strip()
     if not raw:
@@ -71,7 +71,7 @@ def parse_satisfaction(raw):
     except ValueError:
         return ""
 
-
+# Cleans the row
 def clean_row(row):
     rid = row["response_id"].strip()
     name = row["participant_name"].strip()
@@ -89,6 +89,7 @@ def clean_row(row):
     tool = normalize_tool(row["primary_tool"])
     text = row["response_text"]
 
+    # Returns the cleaned row
     return {
         "response_id": rid,
         "participant_name": name,
@@ -101,7 +102,7 @@ def clean_row(row):
         "response_text": text,
     }
 
-
+# Main function
 def main():
     rows_out = []
     with open(INPUT_CSV, newline="", encoding="utf-8") as f:
@@ -117,6 +118,6 @@ def main():
 
     print(f"Wrote {len(rows_out)} rows to {OUTPUT_CSV}")
 
-
+# Main function
 if __name__ == "__main__":
     main()

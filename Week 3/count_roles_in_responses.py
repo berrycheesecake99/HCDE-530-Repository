@@ -9,7 +9,7 @@ def name_is_empty(row):
         return True
     return str(name).strip() == ""
 
-
+# Reads the input CSV and counts the roles
 rows = []
 with open(INPUT_CSV, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
@@ -23,7 +23,7 @@ with open(INPUT_CSV, newline="", encoding="utf-8") as f:
         if name_is_empty(row):
             continue
         rows.append(row)
-
+# Counts the roles
 unique_roles = []
 seen = set()
 for row in rows:
@@ -36,17 +36,21 @@ for row in rows:
     if role not in seen:
         seen.add(role)
         unique_roles.append(role)
-
+# Counts the occurrences of each role
 counts = {role: 0 for role in unique_roles}
 for row in rows:
     text = row.get("response") or ""
     text = str(text)
     for role in unique_roles:
         counts[role] += text.count(role)
-
+# Prints the results
 print(f"Rows with non-empty name: {len(rows)}")
 print(f"Unique role strings (exact): {len(unique_roles)}")
 print()
 print("Occurrences of each role string inside response text (exact substring match):")
 for role in sorted(unique_roles, key=lambda r: (-counts[r], r)):
     print(f"  {counts[role]:4d}  {role!r}")
+# Main function
+if __name__ == "__main__":
+    main() # Runs the main function
+    

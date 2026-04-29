@@ -35,13 +35,13 @@ This file explains what I built for Week 4, how I built it, and how the work sup
 - `Week 4/fetch_wdfw_deer_areas.py`
 - `Week 4/deer_areas.csv`
 - `Week 4/top_5_largest_deer_areas.csv`
+- `deer_areas.csv` is for full browsing/filtering in Excel, while `top_5_largest_deer_areas.csv` is a quick reference for the largest areas.
 
 ## Competency claims
 
 ### C1 - Vibecoding and Rapid Prototyping
 
-I used an AI tool to support ideation and early prototyping: it helped me think through function structure and workflow before implementation. I also made judgment calls by narrowing scope so the final script stayed focused on assignment goals (API call, top-5 ranking, and CSV outputs).  
-For this specific week, I do not have a deployed web app URL, so this is partial C1 evidence rather than a strong C1 claim.
+I used AI tools for ideation and function design, then made scope decisions and implemented in Cursor.
 
 ### C2 - Code Literacy and Documentation
 

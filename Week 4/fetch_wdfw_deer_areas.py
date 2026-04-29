@@ -93,11 +93,10 @@ def find_largest_deer_areas(data, top_n=5):
     return largest_records
 #function to save the records to a CSV file
 
-def save_to_csv(data, filename="deer_areas.csv"):
-    """Extract all available record fields and save them to a CSV file."""
-    records = extract_records(data)
+def save_records_to_csv(records, filename):
+    """Save a list of record dictionaries to a CSV file."""
     if not records:
-        print("No deer area records were found, so no CSV file was created.")
+        print(f"No records were provided, so {filename} was not created.")
         return
 
     # Build a complete header list so we keep every field seen across all records.
@@ -117,6 +116,15 @@ def save_to_csv(data, filename="deer_areas.csv"):
 
     print(f"Saved {len(records)} records to {filename}")
 
+
+def save_to_csv(data, filename="deer_areas.csv"):
+    """Extract all available record fields and save them to a CSV file."""
+    records = extract_records(data)
+    if not records:
+        print("No deer area records were found, so no CSV file was created.")
+        return
+    save_records_to_csv(records, filename)
+
 #function to main the program
 def main():
     """Fetch deer-area data, then print the top largest areas."""
@@ -134,9 +142,10 @@ def main():
         return
 
     # Run the size ranking so we can immediately review the largest deer areas.
-    find_largest_deer_areas(api_data, top_n=5)
+    top_areas = find_largest_deer_areas(api_data, top_n=5)
     # Saving to CSV makes the data easy to open in Excel and share without GIS software.
     save_to_csv(api_data, filename="deer_areas.csv")
+    save_records_to_csv(top_areas, filename="top_5_largest_deer_areas.csv")
 
 #function to run the program
 if __name__ == "__main__":

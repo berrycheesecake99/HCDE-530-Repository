@@ -1,0 +1,355 @@
+OBJECTID,Leg_Name,LegB_Name,Active_ind,In_Effect_Desc,Shape.STLength()
+1,Yakima River (North Shore),,,April 1 2026 to March 31 2027,361476.838347799
+2,Yakima River (North Shore),,,April 1 2026 to March 31 2027,9614.58871879991
+3,Interstate 82,,,April 1 2026 to March 31 2027,228390.12786086922
+4,South Branch Extention Canal,,,April 1 2026 to March 31 2027,32821.370295897956
+5,West Side canal,,,April 1 2026 to March 31 2027,1547.00916413156
+6,Umtanum Rd,,,April 1 2026 to March 31 2027,2212.587683315155
+7,Fogarty Ditch,,,April 1 2026 to March 31 2027,9997.046656164179
+8,Lower Riverbottom Rd,,,April 1 2026 to March 31 2027,5543.348511383342
+9,Wilson Creek,,,April 1 2026 to March 31 2027,51021.64983728131
+10,Thorp Highway,,,April 1 2026 to March 31 2027,4458.142231854639
+11,State Route 10,,,April 1 2026 to March 31 2027,34221.14686289082
+12,Grade Creek Road,,,April 1 2026 to March 31 2027,3699.0242743161116
+13,Purtteman Creek,,,April 1 2026 to March 31 2027,25049.012590094724
+14,Lake Chelan shoreline,,,April 1 2026 to March 31 2027,68655.73136959308
+15,Emerson Acres Road,,,April 1 2026 to March 31 2027,18765.513543087724
+16,US Forest Service boundary,,,April 1 2026 to March 31 2027,738.7860695497048
+17,US Forest Service boundary,,,April 1 2026 to March 31 2027,3584.3877598761164
+18,US Forest Service boundary,,,April 1 2026 to March 31 2027,12.566053930150291
+19,US Forest Service boundary,,,April 1 2026 to March 31 2027,2611.036406321387
+20,US Forest Service boundary,,,April 1 2026 to March 31 2027,2552.39494247849
+21,US Forest Service boundary,,,April 1 2026 to March 31 2027,5239.190572050683
+22,Umatilla National Wildlife Refuge (Whitcomb Unit),,,April 1 2026 to March 31 2027,122751.92996656254
+23,Grant-Dourglas County line,,,April 1 2026 to March 31 2027,15998.434724271086
+24,County line to State Route 17,,,April 1 2026 to March 31 2027,6814.007066228345
+25,State Route 17,,,April 1 2026 to March 31 2027,22878.300818579424
+26,State Route 28,,,April 1 2026 to March 31 2027,27680.049759617224
+27,First Avenue,,,April 1 2026 to March 31 2027,3427.114753055681
+28,Sagebrush Flats Road,,,April 1 2026 to March 31 2027,4837.860890813913
+29,Davis Canyon Road,E Road NW,,April 1 2026 to March 31 2027,13844.467068224378
+30,E Road NW,,,April 1 2026 to March 31 2027,30123.928584433677
+31,State Route 26,,,April 1 2026 to March 31 2027,73389.02150836086
+32,Palouse River,,,April 1 2026 to March 31 2027,74962.54500729973
+33,State Route 261,,,April 1 2026 to March 31 2027,141269.73897677238
+34,Bengel Road,,,April 1 2026 to March 31 2027,2663.0996726214594
+35,Wellsandt Road,,,April 1 2026 to March 31 2027,16047.178926561455
+36,McCall Road,,,April 1 2026 to March 31 2027,94367.66948203533
+37,Gering Road,,,April 1 2026 to March 31 2027,5057.833274382044
+38,Lakin Road,,,April 1 2026 to March 31 2027,5071.218577187203
+39,Weber Road,,,April 1 2026 to March 31 2027,11453.444890830746
+40,Rock Creek,,,April 1 2026 to March 31 2027,83250.52132977161
+41,Revere Road,,,April 1 2026 to March 31 2027,7711.907138498778
+42,State Route 153,,,April 1 2026 to March 31 2027,1137.4334056671478
+43,Libby Creek Road,,,April 1 2026 to March 31 2027,6278.142560063277
+44,Texas Creek Road,County Road 1543,,April 1 2026 to March 31 2027,1547.1986547128402
+45,State Route 153,,,April 1 2026 to March 31 2027,7749.887410429938
+46,Old Carlton Road,,,April 1 2026 to March 31 2027,2309.4650209691627
+47,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,882.3242213243209
+48,Vinton Road,County Road 1552,,April 1 2026 to March 31 2027,13696.019502796751
+49,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,9222.586499829056
+50,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,4752.114368486357
+51,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,3953.6037038421823
+52,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2610.064470708349
+53,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1977.1993261160196
+54,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2023.1553642102479
+55,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1309.653950947931
+56,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2222.107786726411
+57,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,3321.44860775617
+58,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1326.8534965368644
+59,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1764.6040918839403
+60,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,3929.7707777223745
+61,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,5365.34007536153
+62,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1318.1826102298967
+63,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,3662.1245627189624
+64,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2627.292322917573
+65,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,938.6577511563842
+66,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,7938.0065084419975
+67,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,604.6299670133313
+68,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2562.348718135469
+69,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,667.7225530564525
+70,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1320.0190364403245
+71,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1244.4045781887173
+72,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,4989.082475838948
+73,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1321.4834413505287
+74,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2958.267756541692
+75,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,6620.51914561902
+76,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,7893.54812925245
+77,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,661.407639498604
+78,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,5961.685520797507
+79,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2731.2829168769313
+80,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1299.5506381599828
+81,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2758.45538047461
+82,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,7961.0485697025
+83,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,3563.9425495453784
+84,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,4198.267558741233
+85,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2582.797111756548
+86,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1335.279017578735
+87,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,3954.366005346357
+88,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,2672.9971032599206
+89,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,7437.154236526483
+90,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,666.7414771331215
+91,Okanogan National Forest External Border,,,April 1 2026 to March 31 2027,1279.6914050072453
+92,South Ahtanum Creek,Yakama Indian Reservation,,April 1 2026 to March 31 2027,54781.14516201901
+93,Reservation Creek,Yakama Indian Reservation,,April 1 2026 to March 31 2027,21420.10973677861
+94,Yakama Indian Reservation,,,April 1 2026 to March 31 2027,1970.2134436954107
+95,Diamond Fork - Ahtanum Creek Drainage Divide,0,,April 1 2026 to March 31 2027,42488.56337772481
+96,Line of Site between US Forest Service Road 615 and Darland Mountain,,,April 1 2026 to March 31 2027,649.9087588670111
+97,US Forest Service Road 615,,,April 1 2026 to March 31 2027,17659.113091946143
+98,US Forest Service Road 613,,,April 1 2026 to March 31 2027,38829.56733464956
+99,Ahtanum Creek,Yakama Indian Nation,,April 1 2026 to March 31 2027,12298.851018881413
+100,US Forest Service Road 1020,,,April 1 2026 to March 31 2027,15567.622335219647
+101,US Forest Service Trail 1127,,,April 1 2026 to March 31 2027,8484.44971424504
+102,Dry Gulch Road,,,April 1 2026 to March 31 2027,33856.384541186206
+103,State Route 20,,,April 1 2026 to March 31 2027,57985.11083744366
+104,US Highway 97,,,April 1 2026 to March 31 2027,706.6320813192982
+105,US Highway 97,,,April 1 2026 to March 31 2027,1820.5585766514046
+106,Tunk Creek Road,,,April 1 2026 to March 31 2027,1207.0865855849888
+107,Tunk Creek Road,,,April 1 2026 to March 31 2027,36348.39267762029
+108,Okanogan River,,,April 1 2026 to March 31 2027,115996.05894789708
+109,Chewiliken Valley Road,,,April 1 2026 to March 31 2027,38667.55001785015
+110,Havillah Road,,,April 1 2026 to March 31 2027,75260.02488658633
+111,Oroville Chesaw Road,Chesaw Road,,April 1 2026 to March 31 2027,6221.361760941183
+112,Molson Road,,,April 1 2026 to March 31 2027,28498.896275033167
+113,US-Canadian Border,,,April 1 2026 to March 31 2027,43621.03728192423
+114,Lake Osoyoos Shoreline,,,April 1 2026 to March 31 2027,171.8400132434504
+115,Danker Cutoff Road,,,April 1 2026 to March 31 2027,8329.554771627922
+116,Salmon Creek Road,,,April 1 2026 to March 31 2027,8502.74134578673
+117,Spring Coulee Road,,,April 1 2026 to March 31 2027,27052.675164923687
+118,B & O North Road,,,April 1 2026 to March 31 2027,12305.849070809436
+119,State Route 20,,,April 1 2026 to March 31 2027,842.143445889046
+120,2nd St,,,April 1 2026 to March 31 2027,883.1244733405096
+121,B & O Road,,,April 1 2026 to March 31 2027,21980.42701286772
+122,Okanogan River,West Bank,,April 1 2026 to March 31 2027,128140.78352111952
+123,Riverside Cutoff Road,,,April 1 2026 to March 31 2027,23103.811003004143
+124,Riverside Cutoff Road,,,April 1 2026 to March 31 2027,203.4943210277982
+125,Riverside Cutoff Road,,,April 1 2026 to March 31 2027,3973.9844735812094
+126,Conconully Reservoir,Eastern Bank,,April 1 2026 to March 31 2027,10844.826378861611
+127,Salmon Creek Road,,,April 1 2026 to March 31 2027,39028.567118049796
+128,Salmon Creek,,,April 1 2026 to March 31 2027,15825.24669195428
+129,Green Lake Road,,,April 1 2026 to March 31 2027,28387.90030235802
+130,Conconully Road,,,April 1 2026 to March 31 2027,29121.119964748785
+131,Conconully Road,,,April 1 2026 to March 31 2027,2737.7134366084965
+132,Conconully City Limits,,,April 1 2026 to March 31 2027,1766.2486216842901
+133,Conconully Road,,,April 1 2026 to March 31 2027,54224.091585636015
+134,Power Transmission Lines,,,April 1 2026 to March 31 2027,41436.26884993481
+135,Cowiche Mill Road,,,April 1 2026 to March 31 2027,56378.74720270918
+136,US Forest Service Rd 1302,Jump off Rd,,April 1 2026 to March 31 2027,59694.279101018976
+137,US Highway 12,,,April 1 2026 to March 31 2027,43601.19698641378
+138,Cowiche Creek,,,April 1 2026 to March 31 2027,39295.251295352005
+139,Naches River,,,April 1 2026 to March 31 2027,83068.7424693666
+140,South Fork Cowiche Creek,,,April 1 2026 to March 31 2027,5449.804875396657
+141,Summitview Avenue,,,April 1 2026 to March 31 2027,1314.4337861668787
+142,Shoreline,Strait of Juan De Fuca,,April 1 2026 to March 31 2027,437523.0266504695
+143,Elwah River,,,April 1 2026 to March 31 2027,39709.74160909727
+144,US Highway 101,,,April 1 2026 to March 31 2027,220834.30043196728
+145,Game Management Unit 624 Boundary,,,April 1 2026 to March 31 2027,1342.0188469321108
+146,South Pine Creek Road,,,April 1 2026 to March 31 2027,9629.635264628492
+147,Hagood Cutoff Road,,,April 1 2026 to March 31 2027,28237.560884385985
+148,Pine Creek Road,,,April 1 2026 to March 31 2027,18568.579027762047
+149,North Lemanasky Road,,,April 1 2026 to March 31 2027,5751.056910454745
+150,Horse Spring Coulee Road,,,April 1 2026 to March 31 2027,9489.991912215015
+151,Beeman Road,,,April 1 2026 to March 31 2027,13480.114878088592
+152,Pine Creek Road,,,April 1 2026 to March 31 2027,15510.670383172297
+153,Highway 7,,,April 1 2026 to March 31 2027,2788.737054258084
+154,Tunk Valley Road,,,April 1 2026 to March 31 2027,209.56643629385485
+155,Main St,,,April 1 2026 to March 31 2027,4321.8101301155275
+156,US Highway 97,,,April 1 2026 to March 31 2027,25808.980382810354
+157,Henry Road,,,April 1 2026 to March 31 2027,4613.480927458018
+158,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,3786.248867255953
+159,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,12283.518857001804
+160,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5278.5667055126305
+161,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2659.39847247605
+162,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2683.9748206816757
+163,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,6554.279948050512
+164,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7635.981650436373
+165,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,34536.03278335992
+166,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,20121.91522411131
+167,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5394.27590427129
+168,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7932.392863921529
+169,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,1951.3272868784723
+170,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2197.1081381533977
+171,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7275.366849523616
+172,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5192.550687658756
+173,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5359.8555027096845
+174,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2523.376702077441
+175,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2575.2213196186453
+176,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5270.070731426568
+177,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5165.610020331089
+178,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,6950.750562684138
+179,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,21886.8011024443
+180,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,63292.32087091741
+181,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7728.754745585556
+182,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,1331.8012616367978
+183,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5300.010563316294
+184,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,3629.7954627904933
+185,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,11893.213196382974
+186,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,16060.855583277578
+187,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,15970.421909694072
+188,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2704.9585723395035
+189,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,12245.630726920723
+190,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,30372.461886536992
+191,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,4936.4437997246905
+192,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5291.096569349535
+193,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,13452.455542269483
+194,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5286.807118127489
+195,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,666.7972553204756
+196,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5408.645056000044
+197,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,18592.234803510233
+198,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,3962.6405480639946
+199,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,18301.321297994313
+200,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,11876.03829532219
+201,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,11156.826149928058
+202,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,91161.82919532697
+203,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,56101.685671853054
+204,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5336.046627768285
+205,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5441.369019454737
+206,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5942.704573171101
+207,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5248.308451752112
+208,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5352.203902671449
+209,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7998.8070312439995
+210,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,38726.18343244476
+211,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5608.516633724087
+212,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7263.590408729178
+213,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,642.1278872134163
+214,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7166.383422190508
+215,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,42511.387096104496
+216,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,57730.33197842117
+217,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7313.901505715992
+218,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,66261.25750273289
+219,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,69869.88293575667
+220,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5315.942701496492
+221,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,3320.2223501043004
+222,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,1324.9634933257391
+223,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2682.2113472144347
+224,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,4095.762195103595
+225,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,4386.313094926056
+226,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,106467.93107036623
+227,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,5069.184821063865
+228,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,4046.8240043165815
+229,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,2670.584997788955
+230,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,7045.404266164685
+231,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,123188.56362037119
+232,Public - Private Land Boundaries,,,April 1 2026 to March 31 2027,4017.1461036560995
+233,State Street,,,April 1 2026 to March 31 2027,482.6088792470504
+234,Dry Gulch Road Extension,,,April 1 2026 to March 31 2027,3970.9107656395827
+235,Fourth Street,,,April 1 2026 to March 31 2027,1501.1798262337797
+236,Lake Osoyoos,Eastern Shoreline,,April 1 2026 to March 31 2027,27311.44406005836
+237,Nine Mile Road,,,April 1 2026 to March 31 2027,14536.81137343312
+238,Tunk Valley Bridge,,,April 1 2026 to March 31 2027,134.84216064795132
+239,Fourth Street,,,April 1 2026 to March 31 2027,203.26488382632195
+240,US Forest Service Road 64,,,April 1 2026 to March 31 2027,43491.73590244955
+241,Washington-Oregon border,,,April 1 2026 to March 31 2027,53309.84804301294
+242,Butte Creek,,,April 1 2026 to March 31 2027,26186.223467447853
+243,US Forest Service Road 46,,,April 1 2026 to March 31 2027,53199.022336028145
+244,US Forest Service Road 4608,,,April 1 2026 to March 31 2027,31546.984006520528
+245,US Forest Service Trail 3112,East Butte Creek Trail,,April 1 2026 to March 31 2027,12226.1222091414
+246,US Forest Service Trail 3112,East Butte Creek Trail,,April 1 2026 to March 31 2027,13918.81885108348
+247,US Forest Service Road 4030,,,April 1 2026 to March 31 2027,24101.95851589904
+248,US Forest Service Road 40,Mountain Road,,April 1 2026 to March 31 2027,51240.77650446363
+249,US Forest Service Road 4039,South Boundary Road,,April 1 2026 to March 31 2027,42054.79272792828
+250,US Forest Service Road 3133,Three Forks Trail,,April 1 2026 to March 31 2027,13697.499588679286
+251,US Forest Service Road 3100,,,April 1 2026 to March 31 2027,12468.70992598871
+252,Washington-Oregon border,,,April 1 2026 to March 31 2027,37225.05820234707
+253,Power Lines,,,April 1 2026 to March 31 2027,50228.1075741462
+254,Ruby Creek Road,US Forest Service Road 2489,,April 1 2026 to March 31 2027,46600.78278884255
+255,Tacoma Creek Road,US Forest Service Road 2389,,April 1 2026 to March 31 2027,64288.2212432568
+256,US Forest Service boundary,,,April 1 2026 to March 31 2027,1903.9357766829896
+257,US Forest Service boundary,,,April 1 2026 to March 31 2027,1284.6116289699653
+258,US Forest Service boundary,,,April 1 2026 to March 31 2027,783.7342427668315
+259,US Forest Service boundary,,,April 1 2026 to March 31 2027,784.2302695313906
+260,US Forest Service boundary,,,April 1 2026 to March 31 2027,813.5535593995787
+261,US Forest Service boundary,,,April 1 2026 to March 31 2027,3124.109668350226
+262,US Forest Service boundary,,,April 1 2026 to March 31 2027,135.7367048672252
+263,US Forest Service boundary,,,April 1 2026 to March 31 2027,4364.120299812378
+264,US Forest Service boundary,,,April 1 2026 to March 31 2027,2982.6948339141595
+265,US Forest Service boundary,,,April 1 2026 to March 31 2027,5240.328657812761
+266,US Forest Service boundary,,,April 1 2026 to March 31 2027,3.2249674155056476
+267,US Forest Service boundary,,,April 1 2026 to March 31 2027,2556.073823997886
+268,US Forest Service boundary,,,April 1 2026 to March 31 2027,1390.5912814988465
+269,US Forest Service boundary,,,April 1 2026 to March 31 2027,2427.534812934263
+270,US Forest Service boundary,,,April 1 2026 to March 31 2027,1697.4362919012428
+271,US Forest Service boundary,,,April 1 2026 to March 31 2027,2172.8752175359427
+272,US Forest Service boundary,,,April 1 2026 to March 31 2027,2600.668778119337
+273,US Forest Service boundary,,,April 1 2026 to March 31 2027,43.387072766293024
+274,US Forest Service boundary,,,April 1 2026 to March 31 2027,42.74371863478797
+275,US Forest Service boundary,,,April 1 2026 to March 31 2027,7323.422065735798
+276,US Forest Service boundary,,,April 1 2026 to March 31 2027,1161.93601791904
+277,US Forest Service boundary,,,April 1 2026 to March 31 2027,4158.152058912259
+278,US Forest Service boundary,,,April 1 2026 to March 31 2027,1317.3914632492827
+279,US Forest Service boundary,,,April 1 2026 to March 31 2027,948.693297634934
+280,US Forest Service boundary,,,April 1 2026 to March 31 2027,2.1863536350449393
+281,Canyon Ranch Road,,,April 1 2026 to March 31 2027,5500.963741900442
+282,US Forest Service boundary,,,April 1 2026 to March 31 2027,1253.79211684928
+283,US Forest Service boundary,,,April 1 2026 to March 31 2027,11969.255198122086
+284,US Forest Service boundary,,,April 1 2026 to March 31 2027,1073.1666693018792
+285,US Forest Service boundary,,,April 1 2026 to March 31 2027,10906.765602173684
+286,US Forest Service boundary,,,April 1 2026 to March 31 2027,5883.159860323302
+287,Lower Joe Creek Road,,,April 1 2026 to March 31 2027,3504.933647323508
+288,US Forest Service boundary,,,April 1 2026 to March 31 2027,3100.9414387256547
+289,Yakima River,,,April 1 2026 to March 31 2027,13101.592291320576
+290,Yakima River,,,April 1 2026 to March 31 2027,3601.8298275468874
+291,South Branch Canal,,,April 1 2026 to March 31 2027,59769.813102347296
+292,Taneum Creek,,,April 1 2026 to March 31 2027,13782.133068894298
+293,Unnamed Creek in  Long Tom Canyon,,,April 1 2026 to March 31 2027,1903.0430239052323
+294,US Forest Service Trail 3113,,,April 1 2026 to March 31 2027,47522.319795781696
+295,US Forest Service Trail 3113,,,April 1 2026 to March 31 2027,27131.401354020287
+296,John Wayne Pioneer Trail,,,April 1 2026 to March 31 2027,4018.2571633626117
+297,John Wayne Pioneer Trail,,,April 1 2026 to March 31 2027,21676.080232622102
+298,Rainwater Wildlife Area boundary,,,April 1 2026 to March 31 2027,5134.945982408473
+299,Umatilla National Forest boundary,,,April 1 2026 to March 31 2027,8466.534387558406
+300,US Highway 12,0,,April 1 2026 to March 31 2027,1064.542478427171
+301,Umatilla National Forest boundary,0,,April 1 2026 to March 31 2027,6029.217469549297
+302,Dent Road,0,,April 1 2026 to March 31 2027,16268.862507431408
+303,Lewis Peak Road,0,,April 1 2026 to March 31 2027,11126.45945248388
+304,Umatilla National Forest boundary,0,,April 1 2026 to March 31 2027,15683.190089891086
+305,Umatilla National Forest boundary,0,,April 1 2026 to March 31 2027,44152.410004791585
+306,Umatilla National Forest boundary,,,April 1 2026 to March 31 2027,47561.354808230215
+307,Skyline Drive Road,,,April 1 2026 to March 31 2027,18834.86173761915
+308,Maloney Mountain Road,,,April 1 2026 to March 31 2027,12082.05574082649
+309,Patit Road,,,April 1 2026 to March 31 2027,74668.4906132834
+310,Maloney Mountain Road,,,April 1 2026 to March 31 2027,5540.596872731721
+311,Payne Hollow Road,0,,April 1 2026 to March 31 2027,18406.146227050576
+312,US Highway 12,0,,April 1 2026 to March 31 2027,17076.071589439358
+313,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,15663.584812267329
+314,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,1173.8979520403275
+315,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,750.530169966713
+316,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,15765.13098925071
+317,Lewis Peak Road,0,,April 1 2026 to March 31 2027,711.6655470904675
+318,Umatilla National Forest Boundary,,,April 1 2026 to March 31 2027,18660.55792732341
+319,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,2.541443070524994
+320,Mount Pleasant Road,Rainwater Wildlife Area boundary,,April 1 2026 to March 31 2027,7787.193734377466
+321,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,25165.497854598118
+322,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,68979.61765533405
+323,Jasper Mountain Road,0,,April 1 2026 to March 31 2027,28865.540660570594
+324,Mount Pleasant Road,0,,April 1 2026 to March 31 2027,13734.254268777971
+325,Rainwater Wildlife Area Boundary - Owned by the Umatilla Tribe,,,April 1 2026 to March 31 2027,10641.976546148877
+326,Snohomish River,,,April 1 2026 to March 31 2027,113067.90239683565
+327,SE 82nd St,SE High Point Way,,April 1 2026 to March 31 2027,53.14477702044354
+328,SE 82nd St,SE High Point Way,,April 1 2026 to March 31 2027,801.0132924451966
+329,SE 82nd St,SE High Point Way,,April 1 2026 to March 31 2027,203.11553395560634
+330,SE 82nd St,SE High Point Way,,April 1 2026 to March 31 2027,307.96471613724117
+331,SE 82nd St,SE High Point Way,,April 1 2026 to March 31 2027,1830.51155071138
+332,SR-18,,,April 1 2026 to March 31 2027,149968.2298535861
+333,I-90,,,April 1 2026 to March 31 2027,16309.411565277916
+334,Pierce-King County Line,,,April 1 2026 to March 31 2027,55315.88589907989
+335,King-Kitsap County Line,,,April 1 2026 to March 31 2027,147383.12424643387
+336,Snohomish-Kitsap County LIne,,,April 1 2026 to March 31 2027,18753.475358836353
+337,Gedney Island (Northern-most Point) - Mouth of the SNohomish River,,,April 1 2026 to March 31 2027,26416.544753453436
+338,Snohomish-Island County Line,,,April 1 2026 to March 31 2027,79255.8312505311
+339,Snohomish County Line - Gedney Island (Northern-most Point),,,April 1 2026 to March 31 2027,5780.85671252915
+340,SR-203,,,April 1 2026 to March 31 2027,79467.54847590349
+341,NE Woodinville-Duvall Rd,,,April 1 2026 to March 31 2027,543.7865681630007
+342,Snoqualmie River,,,April 1 2026 to March 31 2027,47661.77465553804
+343,,Preston Fall City Rd SE,,April 1 2026 to March 31 2027,20951.201630997828
+344,SR-202,,,April 1 2026 to March 31 2027,621.6810892264685
+345,SR-99,,,April 1 2026 to March 31 2027,17007.92296767322
+346,SR-509,,,April 1 2026 to March 31 2027,346.62108261712973
+347,Redondo Way S,,,April 1 2026 to March 31 2027,5859.813820198041
+348,Line of Sight - Redondo Beach - King-Piece County Line,,,April 1 2026 to March 31 2027,28372.360126237934
+349,Vashon - Maury Island Shoreline,,,April 1 2026 to March 31 2027,271828.3528982057
+350,Umatilla National Wildlife Area (Paterson Unit),,,April 1 2026 to March 31 2027,5996.939734083635
+351,Umatilla National Wildlife Area (Paterson Unit),,,April 1 2026 to March 31 2027,1540.0655972838417
+352,Umatilla National Wildlife Area (Paterson Unit),,,April 1 2026 to March 31 2027,143386.41612234848
+353,Umatilla National Forest boundary,,,April 1 2026 to March 31 2027,25998.89052481417
+354,Maloney Mountain Rd,,,April 1 2026 to March 31 2027,20716.635562477488

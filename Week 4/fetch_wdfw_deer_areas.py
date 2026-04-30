@@ -1,5 +1,5 @@
 """
-Fetch and summarize Washington WDFW deer area data from ArcGIS REST.
+Fetch and summarize Washington WDFW deer hunting area data from ArcGIS REST.
 """
 #importing the csv library
 import csv
@@ -9,16 +9,21 @@ try:
 except ImportError:  # pragma: no cover - this is a runtime environment safeguard
     requests = None
 
-# This API URL asks the WDFW ArcGIS service for all deer area records.
+# This dataset contains legally defined deer hunting area boundaries
+# in Washington State for the 2026-2027 season. Boundaries are defined
+# by Washington Administrative Code Section 220-415-010 and the
+# official Big Game Hunting Seasons and Regulations pamphlet.
+# The data is used by WDFW staff and hunters to identify where
+# specific deer hunts are legally permitted.
 # - outFields=* means "include every attribute field available"
 # - where=1%3D1 means "do not filter; return all records"
 # - f=json means "return the response in JSON format"
 API_URL = (
     "https://geodataservices.wdfw.wa.gov/arcgis/rest/services/"
-    "MapServices/SharedReferenceLayers/MapServer/2/query?outFields=*&where=1%3D1&f=json"
+    "MapServices/SharedReferenceLayers/MapServer/8/query?outFields=*&where=1%3D1&f=json"
 )
 
-#function to fetch the deer areas from the API
+#function to fetch the deer hunting areas from the API
 def fetch_deer_areas(api_url):
     """Call the API and return the parsed JSON response."""
     response = requests.get(api_url, timeout=30)
@@ -32,12 +37,12 @@ def extract_records(data):
 
     The response JSON contains:
     - metadata (field names, aliases, and data types)
-    - features (a list of deer area records)
+    - features (a list of deer hunting area records)
     - each feature usually has an "attributes" dictionary with the record fields
     """
     records = []
     for feature in data.get("features", []):
-        # "attributes" holds the deer-area fields we care about (ID, name, dates, area, etc.).
+        # "attributes" holds the deer hunting area fields we care about (ID, name, dates, area, etc.).
         attributes = feature.get("attributes", {})
         if not isinstance(attributes, dict):
             continue
@@ -45,10 +50,10 @@ def extract_records(data):
         records.append(attributes.copy())
     return records
 
-#function to find the largest deer areas
+#function to find the largest deer hunting areas
 def find_largest_deer_areas(data, top_n=5):
     """
-    Sort deer areas by size and print the top N with all fields.
+    Sort deer hunting areas by size and print the top N with all fields.
 
     This is useful for a hunter or wildlife manager because it quickly identifies
     the largest management areas, which can help with trip planning, effort
@@ -56,11 +61,19 @@ def find_largest_deer_areas(data, top_n=5):
     """
     records = extract_records(data)
     if not records:
-        print("No deer area records were found in the API response.")
+        print("No deer hunting area records were found in the API response.")
         return []
 
     # Common size/area field names used in GIS responses.
-    size_field_candidates = ("Shape.STArea()", "Shape_Area", "AREA", "Area", "area")
+    # The 2026-2027 deer hunting areas layer may only expose Shape.STLength().
+    size_field_candidates = (
+        "Shape.STArea()",
+        "Shape_Area",
+        "AREA",
+        "Area",
+        "area",
+        "Shape.STLength()",
+    )
     size_field = next((name for name in size_field_candidates if name in records[0]), None)
 
     if size_field is None:
@@ -75,15 +88,15 @@ def find_largest_deer_areas(data, top_n=5):
 
     largest_records = sorted(records, key=safe_size_value, reverse=True)[:top_n]
 
-    print(f"Top {top_n} largest deer areas (sorted by '{size_field}'):\n")
+    print(f"Top {top_n} largest deer hunting areas (sorted by '{size_field}'):\n")
     for rank, record in enumerate(largest_records, start=1):
-        print(f"{rank}. Deer Area")
+        print(f"{rank}. Deer Hunting Area")
         for field_name, field_value in record.items():
             # Field meanings from this API:
             # - OBJECTID: internal unique row ID in the ArcGIS layer
-            # - DA_Id: deer area number used by WDFW
-            # - DA_Name: deer area name
-            # - In_Effect_Desc: date range when this area definition is in effect
+            # - DA_Id: deer hunting area number used by WDFW
+            # - DA_Name: deer hunting area name
+            # - In_Effect_Desc: date range when this hunting area definition is in effect
             # - Shape.STArea(): GIS-computed polygon area value
             # - Shape.STLength(): GIS-computed boundary/perimeter length value
             display_value = "Unknown" if field_value in (None, "") else field_value
@@ -117,21 +130,21 @@ def save_records_to_csv(records, filename):
     print(f"Saved {len(records)} records to {filename}")
 
 
-def save_to_csv(data, filename="deer_areas.csv"):
+def save_to_csv(data, filename="deer_hunting_areas_2026_2027.csv"):
     """Extract all available record fields and save them to a CSV file."""
     records = extract_records(data)
     if not records:
-        print("No deer area records were found, so no CSV file was created.")
+        print("No deer hunting area records were found, so no CSV file was created.")
         return
     save_records_to_csv(records, filename)
 
 #function to main the program
 def main():
-    """Fetch deer-area data, then print the top largest areas."""
+    """Fetch deer hunting area data, then print the top largest areas."""
     if requests is None:
         print("The 'requests' library is required. Install it with: pip install requests")
         return
-#try to fetch the deer areas from the API
+#try to fetch the deer hunting areas from the API
     try:
         api_data = fetch_deer_areas(API_URL)
     except requests.RequestException as error:
@@ -141,11 +154,11 @@ def main():
         print(f"Could not decode JSON response: {error}")
         return
 
-    # Run the size ranking so we can immediately review the largest deer areas.
+    # Run the size ranking so we can immediately review the largest deer hunting areas.
     top_areas = find_largest_deer_areas(api_data, top_n=5)
     # Saving to CSV makes the data easy to open in Excel and share without GIS software.
-    save_to_csv(api_data, filename="deer_areas.csv")
-    save_records_to_csv(top_areas, filename="top_5_largest_deer_areas.csv")
+    save_to_csv(api_data, filename="deer_hunting_areas_2026_2027.csv")
+    save_records_to_csv(top_areas, filename="top_5_largest_deer_hunting_areas_2026_2027.csv")
 
 #function to run the program
 if __name__ == "__main__":

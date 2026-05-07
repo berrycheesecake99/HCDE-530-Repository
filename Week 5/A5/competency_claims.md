@@ -23,7 +23,7 @@ The key change in code: instead of fetching data at runtime via `requests.get()`
 
 ## C5 — Data Analysis with Pandas
 
-I used pandas to answer three analytical questions about farmer support demand patterns in the 2019 KCC transcript data across Uttar Pradesh, Madhya Pradesh, and Rajasthan.
+I used pandas to answer four analytical questions about farmer support demand patterns in the 2019 KCC transcript data across Uttar Pradesh, Madhya Pradesh, and Rajasthan.
 
 **Question 1: What are farmers asking about most?**  
 Using `value_counts()` on `QueryType`, Weather queries dominate at 8,233 out of 18,081 total — nearly 45% of all calls. Plant Protection is second at 3,612. This tells us that farmers are primarily calling about immediate threats to their crops rather than planning or market information.
@@ -34,4 +34,7 @@ Filtering to rows where `KccAns` is null showed that 8,771 queries — 48.5% of 
 **Question 3: Do farmers in different states call about different problems?**  
 Using `groupby()` on `StateName` and `QueryType`, Rajasthan shows a higher concentration of Weather queries relative to its size, while Uttar Pradesh has more Plant Protection calls. This suggests localized support priorities differ by state and that a one-size-fits-all advisory approach may not serve all three states equally well.
 
-All three operations include plain English comments in the notebook explaining what question each cell answers and what the result means about farmer support in India.
+**Question 4: Which crops show higher unanswered-query burden?**  
+I created a binary indicator with `df["is_unanswered"] = df["KccAns"].isna().astype(int)` and then used `df.groupby("Crop")["is_unanswered"].mean()` to compare average unanswered rates by crop. This extends the analysis from state-level patterns to crop-level service gaps and helps identify where advisory follow-up may be most needed.
+
+All four operations include plain English comments in the notebook explaining what question each cell answers and what the result means about farmer support in India.

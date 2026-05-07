@@ -3,3 +3,6 @@
 
 # Cursor (local editor metadata)
 .cursor/.DS_Store
+
+# Environment variables / secrets
+.env

@@ -1,0 +1,237 @@
+BlockName,Category,CreatedOn,Crop,DistrictName,KCCCallID,KccAns,QueryText,QueryType,Season,Sector,StateName,day,month,year
+KHED,Cereals,2022-10-25T08:48:57.037,Wheat,PUNE,3131346,"गहू पिकाचे वाण-
+1) पीकेव्ही वाशिम 2) एकेडीडब्लु 2997-16 (शरद)
+3) पंचवटी (एनआयडीडब्ल्यु-15) 4) एन 59
+5) एनआय 5439 6) एनआयएडब्ल्यु-1415 (नेत्रावती)","ASKED ABOUT VARIETIES OF WHEAT?",Varieties,NA,AGRICULTURE,MAHARASHTRA,25,10,2022
+PATHRI,Others,2022-10-25T08:50:43.863,Others,PARBHANI,3131349,"22/10/2022
+कापूस पिकाचे बाजारभाव -   वरोरा-माढेली मार्केट - कमीत कमी -६६००  रु/क्विंटल जास्तीत जास्त -  ८००१ रु/क्विंटल , सरासरी भाव - ७५५१ रु/क्विंटल . धन्यवाद 
+","Farmer asked price detail of Cotton in Bhadrawati mandi.","Market Information",NA,AGRICULTURE,MAHARASHTRA,25,10,2022
+PATHRI,Oilseeds,2022-10-25T08:55:03.557,"Soybean (bhat)",PARBHANI,3131350,"22/10/2022
+सोयाबीन  पिकाचे बाजारभाव -  मानवत मार्केट - कमीत कमी -३९००  रु/क्विंटल जास्तीत जास्त - ४८५०  रु/क्विंटल , सरासरी भाव -  ४३२५ रु/क्विंटल . धन्यवाद 
+","Farmer asked price detail of Soyabean in Manwat mandi.","Market Information",NA,AGRICULTURE,MAHARASHTRA,25,10,2022
+MOTALA,Pulses,2022-10-23T16:40:15.483,"Pigeon pea (red gram/arhar/tur)",BULDANA,3119831,"फुलधारणेसाठी बुमफ्लॉवर.(नायट्रोबेंझीन २० %)  30मिली/15लिटर पाण्यामध्ये घेऊन फवारणी करावी.
+","FARMER ASKED ABOUT spraying for increasing flowering in RED GRAM ?","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+MOTALA,"Fiber Crops",2022-10-23T16:45:43.863,"Cotton (Kapas)",BULDANA,3119833,"मलकापूर मार्केट मध्ये कापूस पिकाचे बाजार भाव अद्याप उपलब्ध झालेले नाही धन्यवाद शुभ दिवस.","Farmer asked price detail of --Select-- in Malkapur mandi","Market Information",NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+CHAKUR,Oilseeds,2022-10-23T16:48:15.56,"Safflower (kusum/kardi)",LATUR,3119871,"पिकाचे नाव-करडी(सेप्टेंबर-ऑक्टोबर) 
+बियाणे प्रमाण (किलो ./हे.)११
+लागवडीचे अंतर (से.मीटर)-पेरणी करिता दोन ओळीत ४५ से.मी
+फुलोर्‍यावर फुलोर्‍यावर येण्याचा कालावधी-७५-८०
+हेक्टरी उत्पादन (क्विंटल/हे.)सुधारित-१०-१२,संकरीत-१५-१८
+सुधारित जाती-सुधारित-एकेएस-२०७,भीमा,नारी
+संकरीत-नारी-एनएच-१,फूले कुसुम,फुले चंद्रभागा (एस.एस.एफ ७४८)
+","farmer asked about varieties of safflower ?",Varieties,NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+CHAKUR,Others,2022-10-23T16:50:49.517,"Pigeon pea (red gram/arhar/tur)",LATUR,3119868,"हवामान विभागाच्या अंदाजानुसार आपल्या चाकूर  तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील.आज पावसाची शक्यता  नाही..आजचे तापमान -कमाल - 29 अंश सेल्सियस आणि किमान -22  अंश सेल्सियस  ,वाऱ्याचा वेग -तासी  8  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+MALKAPUR,Pulses,2022-10-23T16:52:54.36,"Pigeon pea (red gram/arhar/tur)",BULDANA,3119865,"वाढीसाठी - १९ १९ १९ ४० ग्रॅम + मायक्रोला ३० मिली  /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी
+","FARMER ASKED ABOUT FERTILIZER SPRAY FOR GROWTHN ON PIGEON PEA ?
+","Nutrient Management",NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+KALAMNURI,Others,2022-10-23T16:57:02.48,Others,HINGOLI,3119842," हवामान विभागाच्या अंदाजानुसार आपल्या तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील. पावसाची शक्‍यता नाही..आजचे तापमान -कमाल - 30 अंश सेल्सियस आणि किमान -20  अंश सेल्सियस  ,आर्दता सरासरी 60 टक्के वाऱ्याचा वेग -तासी  8  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .धन्यवाद  शुभ दिवस
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+SANGRAMPUR,Others,2022-10-23T17:38:37.963,Others,BULDANA,3119839,"संग्रामपूर तालुका हवामान अंदाज -- पुढील ५ दिवसात वातावरण क्लिअर राहील  ,  पावसाची शक्यता नाही  ,  तापमान - किमान - १८ ℃ आणि कमाल - ३० ℃,  , वाऱ्याचा वेग ताशी -६ / ताशी, धन्यवाद.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+BARSHI,Vegetables,2022-10-23T17:49:43.927,Cabbage,SOLAPUR,3120537,"कोबी पिकावरील अळी नियंत्रण -  प्रोक्लेम ५ ग्रॅम/१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.(इमामेक्टीन बेन्झोएट ५ %SG) ","FARMER ASKED ABOUT ATTACK OF CATERPILLAR ON CABBAGE?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,23,10,2022
+BHADRAWATI,Vegetables,2022-10-23T18:02:43.503,Chillies,CHANDRAPUR,3120545,"मिरची फुलांचे प्रमाण वाढवण्यासाठी -बुमफ्लॉवर ३० मिली/१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.(नायट्रोबेंझीन २०%) 
+","Farmer Asking About Flowering In CHILLI ?
+","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,23,10,2022
+BHADRAWATI,Vegetables,2022-10-23T18:05:28.74,Brinjal,CHANDRAPUR,3120544,"वांगी पिकांमधील खोड किड नियंत्रण  -  सुपर डी ( क्लोरोपायरीफॉस अँड सायपरमेथ्रीन ) ३० मिली प्रति १५ लिटर पाण्यात घेऊन फवारणी करावी  ","FARMER ASKED ABOUT ","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,23,10,2022
+JATH,Pulses,2022-10-23T18:07:24.13,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)",SANGLI,3120548,"हरभरा -जाती -विजय,  दिग्विजय, विशाल, विकास , जॅकी -९२१८, फुले  जी -१२ 
+हरभरा- मध्ये विजय, विशाल, दिग्विजय,आणि फुले विक्रम हे वाण मर रोग प्रतिकारश्यम असून जिरायत बागायत तसेच उशिरा पेरणीस योग्य आहेत. विशाल हा टपोऱ्या दाण्याचा वाण आहे
+
+","FARMER ASKED ABOUT VARIETIES OF BENGAL GRAM ?
+",Varieties,NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+KARMALA,Vegetables,2022-10-23T18:34:26.28,"Beans ",SOLAPUR,3120531,"फुलधारणेसाठी बुमफ्लॉवर.(नायट्रोबेंझीन २० %)  30मिली/15लिटर पाण्यामध्ये घेऊन फवारणी करावी धन्यवाद!
+","FARMER ASKED ABOUT spraying for increasing flowering in BEANS?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,23,10,2022
+GHANSAWANGI,Others,2022-10-23T18:40:07.67,Others,JALNA,3120527,"हवामान विभागाच्या अंदाजानुसार आपल्या घनसावंगी तालुक्यात - पुढील पाच दिवसांमध्ये वातावरण सूर्यप्रकाशात राहील . पावसाची शक्यता नाही .आजचे तापमान -कमाल - २९ अंश सेल्सियस आणि किमान - १६ अंश सेल्सियस  ,वाऱ्याचा वेग -तासी ९ किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .धन्यवाद!","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+AUSA,Pulses,2022-10-24T11:33:38.507,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)",LATUR,3125050,"हरभरा -प्रतिकिलो बियाण्यास २ -२.५  ग्रॅम कार्बेन्डाझिम किंवा  थायरमची बीजप्रक्रिया करावी. पेरणीपूर्वी बियाण्यास २५  ग्रॅम रायझोबियम जिवाणू संवर्धक + २५  ग्रॅम स्फुरद विरघळविणारे जिवाणू संवर्धक प्रति किलो बियाण्यास गुळाच्या थंड पाण्यातून बीजप्रक्रिया करावी
+","Seed treatment for Bengal gram ?
+","Cultural Practices",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+PURANDAR,Vegetables,2022-10-24T11:37:17.08,Brinjal,PUNE,3125147,"पिकाचे नाव-वांगी(मे-जून व ऑग-सेप्टें व डिसें-जान)  brinjal
+बियाणे प्रमाण (कि./हे.)-०.७००-१०००
+लागवडीचे अंतर (से.मीटर)-७५*६० व ७५*७५ व ९०*७५
+पिकाचा कालावधी (दिवस)२००
+हेक्टरी उत्पादन (क्विंटल/हे.)२५०-३००
+सुधारित जाती-,रुचिरा,पूसा क्रांति,
+हिरवी फळे -फूले हरित,फुले अर्जुन 
+जांभळा -मांजरी गोटा,कृष्णा ,पूसा पर्पल राऊंड
+","FARMER ASKED ABOUT VARITIES OF BRIJAL ?","Cultural Practices",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+INDAPUR,Vegetables,2022-10-24T11:39:45.433,Onion,PUNE,3125064,"कांदा पिकाला 00 52 34 ,  100 ग्रॅम प्रति 15 लिटर पाण्यातून फवारणी करावी धन्यवाद","ASKED ABOUT NUTRIENT FOR ONION ?","Nutrient Management",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+PAROLA,Vegetables,2022-10-24T11:41:53.293,"Bitter Gourd",JALGAON,3125146,"वाण- कारले:_ 
+अरका हरित : या जातीची फळे आकर्षक लहान मध्‍यम भगी फूगीर, हिरवीगार असतात. फळांमध्‍ये बियांचे प्रमाण अल्‍प असते.
+पुसा दो मोसमी : या जातीचे फळ वजनदार व लांब व हिरवे असते. ही जात दोन्‍ही हंगामात योग्‍य आहे. 55 दिवसांत फळे काढणीस सुरुवात होते.
+पुसा विशेष : ही जात उन्‍हाळी हंगामासाठी योग्‍य असून नदी काठच्‍या लागवडीस योग्‍य आहे.
+या शिवाय विद्यापीठाने विकसित केलेल्‍या सिलेक्‍शन-4, सिलेक्‍शन-5, सिलेक्‍शन-6 तसेच कोकण तारा, फुले ग्रिन गोल्‍ड अर्काहरित, हिरकणी या जाती लागवडीस योग्‍य आहे.
+
+","Farmer asked about varieties of bitter gourd?","Seeds and Planting Material",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+AMGAON,Others,2022-10-24T11:55:31.12,Others,GONDIYA,3125100,"हवामान विभागाच्या अंदाजानुसार आपल्या आमगाव    तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील.आज पावसाची शक्यता  नाही ..आजचे तापमान -कमाल - 31 अंश सेल्सियस आणि किमान -19  अंश सेल्सियस  ,वाऱ्याचा वेग -तासी  11  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+INDAPUR,Vegetables,2022-10-24T11:58:19.18,Onion,PUNE,3125067,"कांदा पिकास 00 52 34  60 ग्रॅम आणि मायक्रोला 30 मिली प्रति 15 लिटर पाण्यामध्ये घेऊन फवारणी करावी","FARMER ASKED ABOUT FERTILIZER SPRAY ON ONION ? ","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+SAKRI,Others,2022-10-24T12:01:03.823,Others,DHULE,3125103,"कांदा  पिकाचे बाजारभाव -पुणे  मार्केट - कमीत कमी - 800रु/क्विंटल जास्तीत जास्त -2300  रु/क्विंटल , सरासरी भाव - 1550 रु/क्विंटल . धन्यवाद","Farmer asked price detail of Onion in Pune mandi.","Market Information",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+LATUR,Pulses,2022-10-24T12:33:48.703,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)",LATUR,3125313,"हरभरा -उगवणी पूर्व तण नाशक -पेंडीमेथालीन १ -१.५ किलो /हेक्टर ८०० -१००० लिटर पाण्यातून फवारावे 
+","Weed management in Bengal gram ?
+","Weed Management",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+VAIJAPUR,Others,2022-10-24T12:54:51.833,Others,AURANGABAD,3124975,"हवामान विभागाच्या माहितीनुसार आपल्या वैजापूर तालुक्यातील हवामानाचा अंदाज  येत्या ५ दिवसात वातावरण क्लिअर राहील त्याचबरोबर सूर्यप्रकाशित असेल, पावसाची शक्यता  वर्तवलेली नाही .तापमान -किमान १६ अंश सेल्सियस आणि कमाल २९ अंश सेल्सियस. वाऱ्याचा वेग १० किमी /तासी राहील . .धन्यवाद 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+PAITHAN,Vegetables,2022-10-24T12:55:38.82,Onion,AURANGABAD,3124885,"कांदा- ००:५२:३४   ७५ ग्राम प्रति १५ लिटर पाण्यात मिसळून फवारणी करावी.","Asked about fertilizer spray for Onion ?","Fertilizer Use and Availability",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+CHIKHLI,Others,2022-10-24T10:10:13.423,Others,BULDANA,3125439,"हवामान विभागाच्या अंदाजानुसार आपल्या चिखली  तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील.आज पावसाची शक्यता  नाही ..आजचे तापमान -कमाल - 31 अंश सेल्सियस आणि किमान -19  अंश सेल्सियस  ,वाऱ्याचा वेग -तासी  11  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+"CHANDUR BZ","Fiber Crops",2022-10-24T10:10:16.123,"Cotton (Kapas)",AMRAVATI,3125434,"कपाशी पिकामध्ये रिडोमिल गोल्ड 30 ग्राम सोबत अरेवा 8 ग्राम सोबत मायक्रोन्यूट्रिएंट 20 ग्राम प्रति 15 लिटर पंपासाठी घेऊन फवारणी करा धन्यवाद","Farmer asked about yellowing in cotton crop due to sucking pest?","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+"DEULGAON RAJA",Millets,2022-10-24T10:22:36.327,"Sorghum (Jowar/Great Millet)",BULDANA,3125405,"ज्वारी पिकाच्या जाती---मध्यम जमीन (६० सें.मी. पर्यंत खोल) : फुले सुचित्रा, फुले माउली, फुले चित्रा, परभणी मोती, मालदांडी-३५-१ ","FARMER ASKED ABOUT VARIETIES OF SORGHUM CROP ?",Seeds,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+HIMAYATNAGAR,"Condiments and Spices",2022-10-24T10:23:48.867,Turmeric,NANDED,3125012,"क्लोरोपायरीफॉस 30 मिली 15 लिटर पाणी याप्रमाणे फवारणी किंवा आळवणी करावी धन्यवाद शुभ दिवस","FARMER ASKED QUERY ABOUT ATTACK OF ROOT GRUB IN TURMERIC ?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+HADGAON,Others,2022-10-24T10:36:05.84,Others,NANDED,3125401,"मोकळ्या शेतात तण नियंत्रणासाठी -ग्लायफोसेट अमोनियम सॉल्ट  71% एसजी- १०० ग्रॅम + युरिया १०० ग्रॅम / १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी (मीरा ७१ )
+","Farmer asked about Weed management on Fallow land ?
+","Weed Management",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+KOREGAON,Others,2022-10-24T10:51:31.653,Others,SATARA,3125016,"मोकळ्या शेतात तण नियंत्रणासाठी -मीरा ७१ १०० ग्रॅम + युरिया १०० ग्रॅम / १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी
+धन्यवाद ","FARMER ASKED QUERY ABOUT WEED MANAGEMENT IN FALLOW LAND ?","Weed Management",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+GANGAPUR,Others,2022-10-24T10:54:00.99,Others,AURANGABAD,3124957,"औरंगाबाद जिल्हा गंगापूर तालुका हवामान अंदाज या आठवड्यात सूर्यप्रकाशित वातावरण राहील,हलक्‍या ते मध्यम पावसाची शक्यता नाही
+तापमान(अंश सेल्सियस ) -१४  आणि कमाल- ३0,
+वाऱ्याचा वेग(किमी/तास) -१४  ,धन्यवाद","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+SENGAON,"Condiments and Spices",2022-10-24T10:55:43.36,Turmeric,HINGOLI,3125027,"आळवनी द्वारे ब्ल्यु कॉपर ४० ग्रॅम + हुमिक अॅसिड ३० मिलि /१५ लिटर पाण्यातून द्यावे
+","FARMER ASKED ABOUT CONTROL OF LEAF  BLIGHT ON TURMERIC CROP?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+SHRIGONDA,Pulses,2022-10-24T11:02:09.613,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)",AHMADNAGAR,3125075,"कपाशी पिकामध्ये फुलाच्या अवस्थेत असल्यास - 12:61:00 60 ग्रॉम  + मायक्रोला 30 मिलि/ न्यूट्रीबिल्ड 20 ग्राम /15 लिटर पाण्यात घेऊन फवारणी करावी.
+","FARMER ASKED ABOUT SPRAYING AT FLOWERING STAGE ON COTTON  ?
+","Nutrient Management",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+NER,Others,2022-10-24T11:05:48.887,Others,YEVATMAL,3124877,"हवामान अंदाज - वातावरण मुख्यतः सूर्यप्रकाशित राहील,  कमाल तापमान 29 अंश सेल्सिअस, किमान तापमान 20 अंश सेल्सिअस . वाऱ्याचा वेग 7 किलोमीटर प्रति तास . .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+PARANDA,Millets,2022-10-24T11:07:26.293,"Sorghum (Jowar/Great Millet)",OSMANABAD,3125407,"तण नाशक -क्विझालो फॉफ इथाइल (5 टक्के ईसी) 15 ते 20 मि.लि. /10 लिटर पाण्यात मिसळून पीक उगवणीनंतर 21 दिवसांनी फवारावे. 
+","FARMER ASKED QUERY ABOUT WEED MANAGEMENT IN SORHGUM ?","Weed Management",NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+RALEGAON,Vegetables,2022-10-24T11:09:13.153,Chillies,YEVATMAL,3125297,"मिरची या पिकावरील रस शोषक कीड नियंत्रण -इमिडाक्लोप्रिड १० मिली / १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी .","Farmer asked about attack of sucking pest on chilli ?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+DINDORI,Vegetables,2022-10-24T11:22:56.397,Tomato,NASIK,3125414,"टोमॅटो पिकावरील केवडा,करपा,भुरी नियंत्रणासाठी रिडोमिल गोल्ड 40 ग्रॉम/१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी 
+","FARMER ASKED ABOUT ATTACK OF DOWNY, BLIGHT OR POWDERY MILDEW ON TOMATO ?
+","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+NIPHAD,Others,2022-10-24T11:25:35.813,Others,NASIK,3125446,"नाशिक जिल्हा निफाड तालुका हवामान अंदाज या आठवड्यात सूर्यप्रकाशित वातावरण राहील,पावसाची शक्यता नाही
+तापमान(अंश सेल्सियस ) -१४  आणि कमाल- ३0,
+वाऱ्याचा वेग(किमी/तास) -१४  ,धन्यवाद","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+CHAKUR,Others,2022-10-24T11:25:37.437,Others,LATUR,3125442,"हवामान विभागाच्या अंदाजानुसार पुढील पाच दिवसात वातावरण ढगाळ आहे . पावसाची शक्‍यता नाही.  तापमान कमीतकमी 19 अंश सेल्सिअस , जास्तीत जास्त 30 अंश सेल्सिअस ,  वाऱ्याचा वेग 9 किलोमीटर प्रति तास .  धन्यवाद  .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,24,10,2022
+MAHAGAON,Vegetables,2022-10-24T11:27:26.993,Tomato,YEVATMAL,3125053,"साफ ३० ग्रॅम / १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी ( कार्बेन्डाझिम १२ % + मॅन्कोझेब ६३ % ) युपीएल 
+","FARMER ASKED QUERY ABOUT FUNGICIDAL ATTACK ON TOMATO CROP ?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,24,10,2022
+"SOUTH  SOLAPUR",Pulses,2022-10-23T19:40:23.747,"Pigeon pea (red gram/arhar/tur)",SOLAPUR,3121193,"तूर पिकाला निंबोळी अर्क 1500 PPM ५० मिली/ १५ लिटर पाण्यात घेऊन फवारा.धन्यवाद.","Farmer asked about caterpillar attack on tur?","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+NEVASA,Fruits,2022-10-23T19:40:36.6,Orange,AHMADNAGAR,3118239,"कॅल्सीबोर ३० ग्राम / १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी ","Farmer asked about fertilizer spray on orange ?","Nutrient Management",NA,HORTICULTURE,MAHARASHTRA,23,10,2022
+HIMAYATNAGAR,"Fiber Crops",2022-10-23T20:57:53.187,"Cotton (Kapas)",NANDED,3121197,"कापूस पिकांमधील फुलधारणेसाठी बुमफ्लॉवर.(नायट्रोबेंझीन २० %)  30मिली/15लिटर पाण्यामध्ये घेऊन फवारणी करावी.
+","FARMER ASKED ABOUT spraying for increasing flowering in cotton ?
+","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+HIMAYATNAGAR,"Fiber Crops",2022-10-23T21:30:31.903,"Cotton (Kapas)",NANDED,3121196,"कापूस पिकांमधील फुलधारणेसाठी आपण बुम फलश(नायट्रोबेंझीन 4० %)  10मिली/15लिटर पाण्यामध्ये घेऊन फवारणी करू शकता.","FARMER ASKED ABOUT spraying for increasing flowering in cotton ?
+","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,23,10,2022
+AKOT,"Fiber Crops",2022-10-14T10:59:38.263,"Cotton (Kapas)",AKOLA,2964222,"कपाशी पिकामध्ये ००:५२:३४  खताचा स्प्रे घेऊ शकता 65 ग्राम प्रति 15 लिटर च्या पंपासाठी धन्यवाद","Farmer asked about fertilizer dose in cotton crop?","Fertilizer Use and Availability",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+DHULE,Others,2022-10-14T11:01:12.72,Others,DHULE,2964176,"हवामान विभागाच्या अंदाजानुसार आपल्या  धुळे जिल्हा धुळे तालुक्यात - या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील. हलक्या ते मध्यम पावसाची शक्यता आहे .आजचे तापमान -कमाल - 30 अंश सेल्सियस आणि किमान - २२ अंश सेल्सियस  ,वाऱ्याचा वेग -तासी  ४  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .धन्यवाद   
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+GHANSAWANGI,"Fiber Crops",2022-10-14T11:07:49.29,"Cotton (Kapas)",JALNA,2964872,"कापूस पिकामध्ये रस शोषक किडींसाठी अरेवा ५-७ ग्राम सोबत साफ पावडर ३० ग्राम प्रति १५ लिटर पंपासाठी फवारणी करा.","Farmer asked about sucking pest attack on cotton crop?","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+ARNI,Others,2022-10-14T11:11:31.12,Others,YEVATMAL,2964902,"हवामान विभागाच्या अंदाजानुसार आपल्या अरणी तालुक्यात या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील,  हलक्या पावसाची शक्यता आहे. आजचे तापमान -कमाल - ३० अंश सेल्सियस आणि किमान - २१ अंश सेल्सियस, वाऱ्याचा वेग - १० किलोमीटर/ तास आहे. हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे. धन्यवाद!   
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+PUSAD,Others,2022-10-14T11:11:55.033,Others,YEVATMAL,2964899,"पुसद  तालुक्याचा हवामान अंदाज :-  येत्या आठवड्यात वातावरण ढगाळ राहील व  पावसाची शक्यता आहे. तापमान = किमान २४ °c , कमाल २८ °c . आर्द्रता = किमान ५१  % , कमाल ८३  % .   वाऱ्याचा वेग  ९  कि.मी./ तास धन्यवाद.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+JAFRABAD,Others,2022-10-14T11:12:05.27,Others,JALNA,2964914,"विहीर अनुदान योजना पात्रता - 
+लाभार्थी अनुसूचित जाती प्रवर्गातील असावा.
+लाभार्थ्याने जातीचा वैध दाखला सादर करणे बंधनकारक असेल.
+लाभार्थ्याच्या जमिनीचा 7/12 व 8-अ चा उतारा सादर करणे बंधनकारक राहील.
+ वार्षिक उत्पन्न मर्यादा दीड लक्ष रुपयाच्या मर्यादेत असावी.
+ लाभार्थीला उत्पन्नाचा दाखला सादर करणे बंधनकारक आहे.
+ 0.20 हेक्टर ते 6 हेक्टर पर्यंत लाभार्थीची जमिनधारणा (नवीन विहिरीसाठी किमान 0.40 हेक्टर मर्यादा आहे) असणे बंधनकारक आहे.","ASKED ABOUT NAVIN VIHIR YOJNA?","Government Schemes",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+ARNI,"Fiber Crops",2022-10-14T11:17:48.437,"Cotton (Kapas)",YEVATMAL,2964903,"कापूस पिकावरील भूरी रोग नियंत्रण - सल्फर ८०% डब्लू पी - ३० ग्रॅम/ १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी. धन्यवाद!  
+","FARMER ASKED ABOUT CONTROL OF POWDERY MILDEW ATTACK ON COTTON CROP?","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MURTIJAPUR,Others,2022-10-14T11:20:08.18,Others,AKOLA,2964920," तालुका  हवामान अंदाज - येत्या आठवड्यात वातावरण स्वच्छ राहील, पावसाची शक्यता नाही , तापमान - किमान - 20 ℃ आणि कमाल-31℃ , वाऱ्याचा वेग ताशी - 11किलोमीटर/ ताशी, हवामान अंदाजानुसार पिकांना पाणी देणे, पिकांची कापणी आदी बाबींचे नियोजन करावे.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+AURANGABAD,Vegetables,2022-10-14T11:22:02.873,Tomato,AURANGABAD,2964891,"टोमॅटो  पिकामध्ये आळीच्या प्रादुर्भाव कमी करण्यासाठी -  अदामा बराझिड (नोव्हॅल्युरॉन 5.25% + एमॅमेक्टिन बेंझोएट 0.9% SC)  १५ मिली / १५ लिटर पाण्यात घेऊन फवारणी करावी .
+","Farmer Asked About Attack of Tomato Caterpillar ?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,14,10,2022
+SHINDKHEDE,Pulses,2022-10-14T11:22:13.48,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)",DHULE,2964875,"हरभरा पिकाला जमिनीतील वाफसा चेक करून पाणी द्यावे जास्त पाणी देऊ नये मध्यम जमिनीत २० ते २५ दिवसांनी पहिले,४५ ते ५० दिवसांनी दुसरे आणि ६५ ते ७० दिवसांनी तिसरे पाणी द्यावे धन्यवाद शुभ दिवस.","Farmer asked about water management in Gram ?","	Water Management	",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+CHAKUR,Others,2022-10-14T11:29:34.913,Others,LATUR,2964887,"चकुर तालुका हवामान अंदाज - ह्या आठवड्यामध्ये वातावरण ढगाळ राहील आणि काही ठिकाणी हलक्या ते मध्यम पावसाची शक्यता राहील. तापमान- किमान-22 ℃, कमाल-30  ℃, वाऱ्याचा वेग 11 कि.मी. / तास.(हवामान अंदाजानुसार पीक कापणी, सिंचन, खतमात्रा आदी बाबींचे नियोजन करावे.)","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+JAFRABAD,Others,2022-10-14T11:29:34.913,Others,JALNA,2964885,"हवामान विभागाच्या अंदाजानुसार आपल्या  जालना जिल्हा जाफ्राबाद तालुक्यात - या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील. हलक्या ते मध्यम पावसाची शक्यता आहे .आजचे तापमान -कमाल - 30 अंश सेल्सियस आणि किमान - २२ अंश सेल्सियस  ,वाऱ्याचा वेग -तासी  ४  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .धन्यवाद   
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+VAIJAPUR,Vegetables,2022-10-14T11:33:10.177,Onion,AURANGABAD,2964896,"कांदा पिकामध्ये मीरा 71 तन नाशक मारल्यानंतर कांदा पिकामध्ये फवारणीची टाकी व्यवस्थितरीत्या धुतल्यानंतर फक्त स्वच्छ पाण्याची कांदा पिकावर ती फवारणी करावी त्यानंतर फॉलीबियॉन  15 ते 20 मिली / प्रति 15 लिटर पाण्यामध्ये घेऊन फवारणी करावी धन्यवाद शुभ दिवस.","Farmer asked about how to remove stress of Onion after spraying Goal with using same Spray Pump which used for spray of Mira 71 ?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,14,10,2022
+KAGAL,Vegetables,2022-10-14T11:37:34.63,Brinjal,KOLHAPUR,2964936,"वांगी पिकामध्ये - ट्रायझोफॉस 30 मिली + रेडोमिल गोल्ड 30 ग्रॉम + हुमिक अॅसिड 30 मिलि/१५ लिटर पाण्यात घेवून आळवणी करावी.
+","FARMER ASKED ABOUT ROOR BORER IN BRINJAL?","	Plant Protection	",NA,HORTICULTURE,MAHARASHTRA,14,10,2022
+KHAMGAON,Others,2022-10-14T11:42:00.61,Others,BULDANA,2965714,"हवामान खात्यानुसार आपल्या खामगाव तालुक्यात ह्या आठवड्यामध्ये वातावरण ढगाळ राहील हलक्या पावसाची शक्यता आहे.कमाल तापमान - ३१ ℃ ,किमान तापमान - २० ℃ .सापेक्ष आद्रता -६७-८३ % वाऱ्याचा वेग - ११ किमी प्रति तास.हवामानाच्या अंदाजानुसार पिकाला पाणी आणि खताची मात्रा द्यावी
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MEHKAR,Others,2022-10-14T11:48:40.327,Others,BULDANA,2965676,"हवामान विभागाच्या अंदाजानुसार ,आपल्या तालुक्यात येत्या आठवड्यात ढगाळ वातावरण राहील हलक्या पावसाची शक्यता आहे.आजचे तापमान - कमाल - ३० अंश सेल्सियस आणि किमान - २१ .३      अंश सेल्सियस  ,वाऱ्याचा वेग - तासी १४   किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+BASMAT,Others,2022-10-14T07:55:03.183,Others,HINGOLI,2961749,"हवामान खात्यानुसार आपल्या हिंगोली तालुक्यात ह्या आठवड्यामध्ये वातावरण ढगाळ राहील हलक्या पावसाची शक्यता आहे.कमाल तापमान - 29℃ ,किमान तापमान - 22 ℃ .सापेक्ष आद्रता -६७-९२ % वाऱ्याचा वेग - 12किमी प्रति तास.हवामानाच्या अंदाजानुसार पिकाला पाणी आणि खताची मात्रा द्यावी","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MALEGAON,Others,2022-10-14T07:57:51.99,Others,WASHIM,2961737,"हवामान विभागाच्या अंदाजानुसार आपल्या मालेगाव तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील.आज पावसाची शक्यता  आहे ..आजचे तापमान -कमाल - 30 अंश सेल्सियस आणि किमान -21 अंश सेल्सियस  ,वाऱ्याचा वेग -तासी  11  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+BARSHITAKLI,Others,2022-10-14T08:21:46.643,Others,AKOLA,2961746,"बार्शीटाकळी - तालुका हवामानाचा अंदाज हवामान विभागाच्या अंदाजानुसार आपल्या तालुक्यात येत्या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील , पुढील ५ दिवसामध्ये पावसाची शक्यता नाहीये .आजचे तापमान -कमाल - ३० अंश सेल्सियस आणि किमान - २० अंश सेल्सियस, आर्दता ७० %,वाऱ्याचा वेग - ७ किलोमीटर/ तास आहे. हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे. धन्यवाद शुभ दिवस","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+JINTUR,"Fiber Crops",2022-10-14T08:41:23.443,"Cotton (Kapas)",PARBHANI,2961983,"कापूस -लाल्या -मॅग्नीशियम सल्फेट 60 ग्रॅम + 12:61:00 75 ग्रॅम/15 लिटर पाण्यात फवारणी करावी आणि मॅग्नीशियम सल्फेट 10 किलो/एकरी  द्या
+धन्यवाद शुभ दिवस ","FARMER ASKED QUERY ABOUT REDDENING OF COTTON CROP ?
+","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MADHA,Others,2022-10-14T08:44:50.94,Others,SOLAPUR,2962110,"हवामान विभागाच्या अंदाजानुसार आपल्या तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील हलक्या पावसाची शक्यता आहे . तापमान -कमाल 32 अंश सेल्सियस आणि किमान 20 अंश सेल्सियस ,वाऱ्याचा वेग -तासी 14 किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे.  ","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+HINGOLI,Others,2022-10-14T08:46:09.14,Others,HINGOLI,2962102,"हवामान विभागाच्या अंदाजानुसार आपल्या हिंगोली  तालुक्यात, येत्या आठवड्यात ढगाळ वातावरण राहील आणि हलक्या पावसाची शक्यता आहे. आजचे कमाल तापमान- ४० अंश सेल्सियस आणि किमान तापमान  २४ अंश सेल्सियस राहील. वाऱ्याचा वेग -१३ मीटर प्रति सेकंड राहील, हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे, धन्यवाद.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+BEED,Pulses,2022-10-14T08:55:59.443,"Bengal Gram (Gram/Chick Pea/Kabuli/Chana)",BEED,2962117,"हरभरा पिकामध्ये तण नाशक - टारगा  सुपर (क्विझालो फॉफ इथाइल 5 टक्के ईसी) 15 ते 20 मि.लि. /10 लिटर पाण्यात मिसळून पीक उगवणीनंतर 21 दिवसांनी फवारावे. ","FARMER ASKED ABOUT WEED MANAGEMENT IN GRAM?","Weed Management",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+BADNAPUR,Others,2022-10-14T09:01:40.417,Others,JALNA,2962114,"हवामान खात्यानुसार ,आपल्या तालुक्यात येत्या आठवड्यात ढगाळ वातावरण राहील , हलक्या पावसाची शक्यता आहे. किमान तापमान 20℃ ,कमाल 28℃ राहील. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+UDGIR,Pulses,2022-10-14T09:02:58.963,"Pigeon pea (red gram/arhar/tur)",LATUR,2962095," वाढीसाठी =१९ .१९ .१९  ६०  ग्राम  +मिक्रोला  30 मिली +बाविस्टीन  ३०  ग्राम /15 ली  पाण्यात घेऊन फवारणी करावी.
+धन्यवाद शुभ दिवस 
+","FARMER ASKED QUERY ABOUT HOW TO INCREASE FLOWERING IN PIGEON PEA ?
+","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+PUSAD,Others,2022-10-14T09:17:18.17,Others,YEVATMAL,2962714,"पुसद -तालुका हवामानाचा अंदाज- हवामान विभागाच्या अंदाजानुसार आपल्या तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील.हलक्‍या स्वरूपाच्या पावसाची शक्‍यता आहे..आजचे तापमान -कमाल - 30 अंश सेल्सियस आणि किमान -20  अंश सेल्सियस  ,आर्दता सरासरी 60 टक्के वाऱ्याचा वेग -तासी  10  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .धन्यवाद  शुभ दिवस
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+NARKHED,Fruits,2022-10-14T09:19:23.783,Mosambi,NAGPUR,2962684,"बाजार भाव- कमीत कमी- 2600 रु/क्विंटल, जास्तीत जास्त- 3000 रु/ क्विंटल, सरासरी- 2900 रु/ क्विंटल.धन्यवाद
+","Farmer asked about market rate of MOSAMBI  in market?
+","Market Information",NA,HORTICULTURE,MAHARASHTRA,14,10,2022
+UMRED,Others,2022-10-14T09:20:23.407,Others,NAGPUR,2962696,"उमरेड तालुक्याचा हवामान अंदाज :-  येत्या आठवड्यात वातावरण ढगाळ राहील व  पावसाची शक्यता आहे. तापमान = किमान २५ °c , कमाल ३० °c . आर्द्रता = किमान ४९  % , कमाल ७२  % .   वाऱ्याचा वेग  ११  कि.मी./ तास धन्यवाद.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MALEGAON,Vegetables,2022-10-13T18:57:37.62,Onion,NASIK,2960652,"13/10/2022
+Mandi  : Satana
+Commodity : Onion
+(Modal Price): 1850/Quintal","Farmer asked price detail of Onion in Satana mandi.","Market Information",NA,HORTICULTURE,MAHARASHTRA,13,10,2022
+MANDANGAD,Others,2022-10-13T20:07:38.01,Others,RATNAGIRI,2960648,"महाराष्ट्र कृषी शिक्षण व संशोधन परिषद १३२ / ब, भांबुर्डा, भोसले नगर, पुणे - ४११००७.
+शिक्षण विभाग - ०२० २५५२८६८८ (Ext. १२५)","asked about contact number of Maharashtra Council of Agriculture Education and Research","Government Schemes",NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+HINGOLI,Others,2022-10-13T20:12:41.21,Others,HINGOLI,2960649,"हिंगोली तालुका हवामान अंदाज - येत्या आठवड्यात वातावरण ढगाळ राहील, पावसाची शक्यता राहील .जास्तीत जास्त तापमान 29°c , कमीत कमी तापमान 23 °c  राहील, हवेचा वेग 4 किमी / तास. धन्यवाद.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+PURANDAR,Others,2022-10-13T20:56:38.95,Others,PUNE,2961188,"तालुका  हवामान अंदाज - येत्या आठवड्यात वातावरण ढगाळ राहील, हलक्या ते मध्यम पावसाची शक्यता आहे, तापमान - किमान - 22 ℃ आणि कमाल-30 ℃ , वाऱ्याचा वेग ताशी - 14 किलोमीटर/ ताशी, हवामान अंदाजानुसार पिकांना पाणी देणे, पेरणी, खत मात्रा, पीक संरक्षण, तण व्यवस्थापन, पिकांची कापणी आदी बाबींचे नियोजन करावे. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+YEOLA,Others,2022-10-14T06:13:36.41,Others,NASIK,2961383,"हवामान विभागाच्या अंदाजानुसार आपल्या येवला तालुक्यात या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील, तुरळक ते हलक्या पावसाची शक्यता आहे. आजचे तापमान -कमाल - २९ अंश सेल्सियस आणि किमान - १९ अंश सेल्सियस, वाऱ्याचा वेग - १७ किलोमीटर/ तास आहे. हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे. धन्यवाद!   
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+KINWAT,Others,2022-10-14T07:04:11.857,Others,NANDED,2961461,"हवामान विभागाच्या अंदाजानुसार येत्या आठवड्यात आपल्या तालुक्यामध्ये पावसाची शक्‍यता. तापमान कमीतकमी 21 डिग्री सेल्सिअस आणि जास्तीत जास्त 30 डिग्री सेल्सिअस राहील.वाऱ्याचा वेग 7 किलोमीटर प्रतितास राहील.
+
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MAHUR,Others,2022-10-14T15:42:36.29,Others,NANDED,2970228,"तालुका हवामान अंदाज -येत्या आठवड्यात ढगाळ वातावरण राहील, हलक्या - मध्यम पावसाची शक्यता आहे . 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MALEGAON,Vegetables,2022-10-14T15:46:45.31,Onion,NASIK,2970230,"13/10/2022
+Mandi  : Manmad
+Commodity : Onion
+(Modal Price): 1800/Quintal","Farmer asked price detail of Onion in Manmad mandi.","Market Information",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MALEGAON,Vegetables,2022-10-14T15:47:18.353,Onion,NASIK,2970231,"12/10/2022
+Mandi  : Chandvad
+Commodity : Onion
+(Modal Price): 1750/Quintal","Farmer asked price detail of Onion in Chandvad mandi.","Market Information",NA,HORTICULTURE,MAHARASHTRA,14,10,2022
+KOPARGAON,Others,2022-10-14T15:55:36.49,Others,AHMADNAGAR,2970256,"अहमदनगर कोपरगाव तालुका हवामान अंदाज या आठवड्यात ढगाळ वातावरण राहील,हलक्‍या  पावसाची शक्यता आहे, 
+तापमान(अंश सेल्सियस ) -20 आणि कमाल- 30,
+वाऱ्याचा वेग(किमी/तास) -12 ,धन्यवाद
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+UMRI,Others,2022-10-14T15:58:45.75,Others,NANDED,2970220,"उमरी   तालुका  हवामान अंदाज - येत्या आठवड्यात वातावरण ढगाळ राहील, तुरळक ते हलक्या पावसाची शक्यता आहे, आजचे तापमान - किमान - 24℃ आणि कमाल- 27℃ , वाऱ्याचा वेग ताशी - 4 किलोमीटर/ ताशी, हवामान अंदाजानुसार पिकांना पाणी देणे, पेरणी, खत मात्रा, पीक संरक्षण, तण व्यवस्थापन, पिकांची कापणी आदी बाबींचे नियोजन करावे. ","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+AKOLA,Others,2022-10-14T16:00:40.91,"Cotton (Kapas)",AKOLA,2970202,"अकोला तालुका वातावरण अंदाज आज पासून येणारे दहा दिवस हलक्या मध्यम स्वरूपाचा ढगाळ राहील आणि पावसाची शक्‍यता हलक्‍या मध्यम स्वरूपाची राहील आजचे तापमान 25 अंश सेल्सिअस ते 30 अंश सेल्सिअस पर्यंत आहे वाऱ्याचा वेग ताशी तीन ते पाच किलोमीटर आहे वाऱ्याची दिशा पश्चिम ते पूर्व आहे आणि आद्रता 50 ते 60 टक्के आहे धन्यवाद","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+JINTUR,Others,2022-10-14T16:02:06.21,Others,PARBHANI,2970240,"13/10/2022
+सोयाबीन पिकाचे बाजारभाव - हिंगोली मार्केट - कमीत कमी - 4400	रु/क्विंटल जास्तीत जास्त - 5050	 रु/क्विंटल , सरासरी भाव - 4725  रु/क्विंटल . धन्यवाद.
+","Farmer asked price detail of Soyabean in Hingoli mandi.","Market Information",NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+PAROLA,Fruits,2022-10-14T16:04:38.387,Lemon,JALGAON,2970226,"फुलांचे प्रमाण वाढवण्यासाठी -बुमफ्लॉवर ३० मिली + ०० ५२ ३४ ६० ग्रॅम/१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.(नायट्रोबेंझीन २०%) 
+१२ ६१ ०० ६० ग्रॅम + मायक्रोला ३० मिली + बाविस्टीन ३० ग्राम  / १५ लिटर पाण्यात घेऊन फवारणी करणे 
+","FOR FLOWERING 	IN LEMON ?
+","Fertilizer Use and Availability",NA,HORTICULTURE,MAHARASHTRA,14,10,2022
+WASHI,Others,2022-10-14T16:04:58.857,Others,OSMANABAD,2970214,"हवामान अंदाज - वातावरण  ढगाळ राहील,बऱ्याच भागात पावसाची शक्‍यता राहील . कमाल तापमान  29 अंश सेल्सिअस, किमान तापमान 25 अंश सेल्सिअस . वाऱ्याचा वेग  9  किलोमीटर प्रति तास .
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+"DHAMANGAON RIL",Others,2022-10-14T16:19:31.847,Others,AMRAVATI,2970257,"तालुका हवामान अंदाज -येत्या आठवड्यात ढगाळ वातावरण राहील, हलक्या - मध्यम पावसाची शक्यता आहे . 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,14,10,2022
+MOHOL,Millets,2022-10-13T10:16:35.72,"Maize (Makka)",SOLAPUR,2951768,"मका वाढीसाठी - १९ १९ १९  ६० ग्रॅम + मायक्रोला ३० मिली  /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.
+","FARMER ASKED ABOUT FERTILIZER SPRAY FOR GROWTH OF MAIZE CROP ?
+","Nutrient Management",NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+NANDGAON,Others,2022-10-13T10:18:52.33,Others,NASIK,2951774,"हवामान विभागाच्या अंदाजानुसार परभणी तालुक्यात येत्या आठवड्यात वातावरण सूर्यप्रकाशित राहील पावसाची शक्यता नाही तापमान कमाल २९  अंश सेल्सिअस, आणि किमान ३१  अंश सेल्सिअस  वाऱ्याचा वेग १२  किलोमीटर प्रति तास  राहील धन्यवाद .
+","Farmer asked query on Weather","Crop Insurance",NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+NANDGAON,Others,2022-10-13T10:19:04.527,Others,NASIK,2951731,"12/10/2022
+Mandi  : Lasalgaon
+Commodity : Onion
+(Modal Price): 2080/Quintal","Farmer asked price detail of Onion in Lasalgaon mandi.","Market Information",NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+MAHAGAON,Others,2022-10-13T10:23:09.807,Others,YEVATMAL,2951720,"तालुका हवामान अंदाज - ह्या आठवड्यामध्ये वातावरण ढगाळ राहील. आणि तुरळक ठिकाणी हलक्या पावसाची शक्यता राहील. तापमान- किमान-22 ℃, कमाल-30 ℃, वाऱ्याचा वेग 14 कि.मी. / तास.(हवामान अंदाजानुसार पीक कापणी, सिंचन, खतमात्रा आदी बाबींचे नियोजन करावे.)
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+MANGRULPIR,Others,2022-10-13T10:25:56.29,Others,WASHIM,2951777,"हवामान अंदाज - वातावरण ढगाळ राहील, बऱ्याच ठिकाणी हलक्‍या ते मध्यम स्वरूपाच्या पावसाची शक्यता राहील. कमाल तापमान  ३१  अंश सेल्सिअस, किमान तापमान  २२  अंश सेल्सिअस . वाऱ्याचा वेग ७  किलोमीटर प्रति तास .","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+NER,Others,2022-10-13T10:26:15.273,Others,YEVATMAL,2951766,"नेर -तालुका हवामानाचा अंदाज- हवामान विभागाच्या अंदाजानुसार आपल्या तालुक्यात ,या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील.हलक्‍या स्वरूपाच्या पावसाची शक्‍यता आहे..आजचे तापमान -कमाल - 30 अंश सेल्सियस आणि किमान -20  अंश सेल्सियस  ,आर्दता सरासरी 60 टक्के वाऱ्याचा वेग -तासी  8  किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .धन्यवाद  शुभ दिवस
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+SAKRI,Vegetables,2022-10-13T10:28:20.247,Radish,DHULE,2952466,"मुळा बाजार भाव 
+मुंबई -2800 रुपये प्रति क्विंटल 
+नागपूर -2300 रुपये प्रति क्विंटल","FARMER ASKED ABOUT MARKET RATE OF RADISH ?","Market Information",NA,HORTICULTURE,MAHARASHTRA,13,10,2022
+TELHARA,Pulses,2022-10-13T10:29:33.707,"Pigeon pea (red gram/arhar/tur)",AKOLA,2951753,"अरहर की फसल में कॉपर ऑक्सीक्लोराइड 40 ग्राम प्रति 15 लीटर पानी की दर से डालें। आप ह्यूमिक एसिड 30 मिली प्रति 15 लीटर पानी भी ले सकते हैं।","Farmer asked about wilting in tur crop?","	Plant Protection	",NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+JALKOT,Others,2022-10-13T10:39:37.613,Others,LATUR,2952449," हवामान विभागाच्या अंदाजानुसार आपल्या  लातूर जिल्हा जळकोट तालुक्यात - या आठवड्यामध्ये वातावरण अंशतः ढगाळ राहील. हलक्या ते मध्यम पावसाची शक्यता आहे .आजचे तापमान -कमाल - 30  अंश सेल्सियस आणि किमान - 22 अंश सेल्सियस  ,वाऱ्याचा वेग -तासी  4 किलोमीटर आहे.हवामान अंदाजानुसार पेरणी, खत व्यवस्थापन, पीक संरक्षण, सिंचन आदी बाबींचे नियोजन करावे .धन्यवाद   
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,13,10,2022
+MANWAT,Others,2022-10-13T10:41:14.52,Others,PARBHANI,2952303,"तालुका हवामान अंदाज या आठवड्यात ढगाळ वातावरण राहील,
+हलक्‍या ते मध्यम पावसाची शक्यता आहे 
+तापमान(अंश सेल्सियस ) -१८ आणि कमाल- ३२,
+वाऱ्याचा वेग(किमी/तास) -१२ ,धन्यवाद
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,MAHARASHTRA,13,10,2022

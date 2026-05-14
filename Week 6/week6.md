@@ -8,7 +8,9 @@ I am claiming **C3** and **C5** for this project. Each claim below cites specifi
 
 My dataset comes from **data.gov.in** (the Indian government's open-data portal for KCC farmer queries). The API does not provide a single download for multiple states and years, so I filtered and downloaded CSV files individually — one per state (Maharashtra, Karnataka, Uttar Pradesh) and one per year (2022, 2023, 2024) — resulting in roughly 36 separate CSV files organized into per-state folders.
 
-I wrote `combine_translate_kcc.py` to merge all of those per-state, per-year CSVs into a single `combined_kcc_3states_en.csv`. During that process I handled several real data problems:
+I intentionally focused on **March, April, June, July, September, and October** because these align with India's major cropping cycle checkpoints: late **Rabi** season and harvest (March-April), **Kharif** sowing and early growth with monsoon onset (June-July), and late-season/harvest decision periods (September-October). Choosing the same season-linked months across all three states made the year-to-year and state-to-state comparisons more meaningful.
+
+I wrote `combine_translate_kcc.py` to merge all of those per-state, per-year CSVs into a single `combined_kcc_3states_en.csv`. I also used Google Translate (via `deep_translator`) to translate `KccAns` into English and store it in `KccAns_en`, so I could analyze responses consistently across Marathi, Kannada, and Hindi entries. During that process I handled several real data problems:
 
 - **Encoding issues:** The source CSVs contained Marathi, Kannada, and Hindi text. I used `utf-8-sig` encoding to read them without mojibake.
 - **Inconsistent formatting:** The `QueryType` column had leading/trailing whitespace that caused the same category to appear as separate values in `value_counts()`. I fixed this with `.str.strip()` to create a clean `QueryType_clean` column.

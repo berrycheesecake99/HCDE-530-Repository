@@ -6,3 +6,6 @@
 
 # Environment variables / secrets
 .env
+
+# Kaleido local Chrome runtime (too large for GitHub; install locally for chart PNG export)
+.kaleido_chrome/

@@ -1,0 +1,437 @@
+BlockName,Category,CreatedOn,Crop,DistrictName,KCCCallID,KccAns,QueryText,QueryType,Season,Sector,StateName,day,month,year
+MANVI,"Fiber Crops",2023-07-26T10:23:55.3,"Cotton (Kapas)",RAICHUR,6069298,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು  ಸಾಧಾರಣ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ 100 %. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,26,7,2023
+HARAPPANAHALLI,Millets,2023-07-26T10:24:51.04,"Maize (Makka)",DAVANAGERE,6069294," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ (80%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,26,7,2023
+LINGSUGUR,Millets,2023-07-25T10:20:27.537,"Maize (Makka)",RAICHUR,6054129,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 70% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+CHITRADURGA,Vegetables,2023-07-25T10:33:50.723,Cabbage,CHITRADURGA,6054246,"Suggested to Apply 17:17:17 @ 3 g/lit of water  + Vegetable special @ 3 g/ltr of water
+","Asked about Nutrient management in Cabbage
+","Nutrient Management",NA,HORTICULTURE,KARNATAKA,25,7,2023
+CHITRADURGA,Vegetables,2023-07-25T10:34:25.433,Cabbage,CHITRADURGA,6054236,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 50% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದ, ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+ALAND,Pulses,2023-07-25T10:34:41.41,"Pigeon pea (red gram/arhar/tur)",GULBARGA,6054048,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 80% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+NARASIMHARAJAPURA,Others,2023-07-25T10:42:32.06,Others,CHIKMAGALUR,6054345,"--
+District	Crop	Enrolment Start Date	Enrolment Close Date	days Left for Enrolment
+Chikkamagaluru	PADDY / ಭತ್ತ(R)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	PADDY / ಭತ್ತ(I)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	PADDY / ಭತ್ತ(R)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	Maize (Makka) / ಮುಸುಕಿನ ಜೋಳ (R)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	RAGI / ರಾಗಿ(R)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	RAGI / ರಾಗಿ(R)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	Save / ಸಾವೆ(R)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	Horse Gram (kulthi/kultha) / ಹುರುಳಿ(R)-PMFBY	01-04-2023	16-08-2023	22-days Left for Enrolment
+Chikkamagaluru	GROUNDNUT / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)(R)-PMFBY	01-04-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	Sorghum (Jowar/Great Millet) / ಜೋಳ (R)-PMFBY	01-04-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	SUNFLOWER / ಸೂರ್ಯಕಾಂತಿ(R)-PMFBY	01-04-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	COTTON / ಹತ್ತಿ(R)-PMFBY	01-04-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	Mango / ಮಾವು(NS)-WBCIS	19-07-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	Pomegranate / ದಾಳಿಂಬೆ(NS)-WBCIS	19-07-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	CHILLY / ಹಸಿ ಮೆಣಸಿನಕಾಯಿ(NS)-WBCIS	19-07-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	Red Chillies / ಕೆಂಪು ಮೆಣಸಿನಕಾಯಿ(R)-PMFBY	01-04-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	Pepper / ಕರಿಮೆಣಸು(NS)-WBCIS	19-07-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	Arecanut / ಅಡಿಕೆ(NS)-WBCIS	19-07-2023	31-07-2023	6-days Left for Enrolment
+Chikkamagaluru	Tomato / ಟೊಮ್ಯಾಟೊ(NS)-PMFBY	01-04-2023	15-07-2023	Enrolment Peroid is over
+Chikkamagaluru	Onion / ಈರುಳ್ಳಿ (R)-PMFBY	01-04-2023	15-07-2023	Enrolment Peroid is over
+Chikkamagaluru	Potato / ಆಲೂಗಡ್ಡೆ (I)-PMFBY	01-04-2023	15-07-2023	Enrolment Peroid is over
+Chikkamagaluru	Potato / ಆಲೂಗಡ್ಡೆ (R)-PMFBY	01-04-2023	15-07-2023	Enrolment Peroid is over
+Chikkamagaluru	Cabbage / ಎಲೆಕೋಸು(NS)-PMFBY	01-04-2023	15-07-2023	Enrolment Peroid is over
+Chikkamagaluru	Sesame (Gingelly/Til)/Sesamum / ಎಳ್ಳು (R)-PMFBY	01-04-2023	01-07-2023	Enrolment Peroid is over
+Chikkamagaluru	Black Gram (urd bean) / ಉದ್ದು (R)-PMFBY	01-04-2023	01-07-2023	Enrolment Peroid is over
+Chikkamagaluru	Green Gram (Moong Bean/ Moong) / ಹೆಸರು (R)-PMFBY	01-04-2023	01-07-2023","Asked about PM fasal bima yojana
+","Government Schemes",NA,AGRICULTURE,KARNATAKA,25,7,2023
+SHIKARPUR,Millets,2023-07-25T10:45:45.08,"Common Millet (Panivaragu/Chena/Proso Millet/Hogm",SHIMOGA,6054131,"Shikaripur ADA 08187 223083 adashikaripura@  rediffmail.com  
+8277932692 ","Asked About PM KISAN SAMMAN YOJANA
+","Government Schemes",NA,AGRICULTURE,KARNATAKA,25,7,2023
+TIRUMAKUDAL-NARSIPUR,Others,2023-07-25T11:01:35.757,Others,MYSORE,6054350,"given the necessary information ","asked about the soil testing procedure ","Government Schemes",NA,AGRICULTURE,KARNATAKA,25,7,2023
+Shahpur,"Fiber Crops",2023-07-25T11:06:53.23,"Cotton (Kapas)",YADAGIRI,6054351,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಗಳಿವೆ (100 %). ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಯನ್ನು ನೋಡಿ ಹೆಚ್ಚು ಮಳೆಯಾದಲ್ಲಿ ನಿಮ್ಮ ಬೆಳೆಗೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರದವರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999  ಮತ್ತು 9243345433. 
+
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+HIREKERUR,Millets,2023-07-25T11:09:22.35,"Maize (Makka)",HAVERI,6054141,"Given necessary information","Asked about nutrient management in Maize","Nutrient Management",NA,AGRICULTURE,KARNATAKA,25,7,2023
+HADAGALLI,Others,2023-07-25T11:18:45.18,Others,BELLARY,6051357," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ (90%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+MUDDEBIHAL,Pulses,2023-07-25T11:21:09.217,"Pigeon pea (red gram/arhar/tur)",BIJAPUR,6054113,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 70% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+MUDDEBIHAL,Millets,2023-07-25T11:23:40.72,"Maize (Makka)",BIJAPUR,6054112,"In kharif season, crop is sown in month of May end to June corresponding with the onset of monsoon. ","Asked about Sowing season in maize.  
+","Sowing Time and Weather",NA,AGRICULTURE,KARNATAKA,25,7,2023
+HIRIYUR,Others,2023-07-25T09:07:55.487,Others,CHITRADURGA,6054114," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ (90%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+HARAPPANAHALLI,Millets,2023-07-25T09:10:52.657,"Maize (Makka)",DAVANAGERE,6053982,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 50% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+"BASAVANA BAGEWADI",Millets,2023-07-25T09:21:02.723,"Maize (Makka)",BIJAPUR,6054565,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 70% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+MUDHOL,"Sugar and Starch Crops",2023-07-25T09:26:56.763,"Sugarcane (Noble Cane)",BAGALKOT,6054040,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಗಳಿವೆ (90 %). ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಯನ್ನು ನೋಡಿ ಹೆಚ್ಚು ಮಳೆಯಾದಲ್ಲಿ ನಿಮ್ಮ ಬೆಳೆಗೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರದವರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999  ಮತ್ತು 9243345433. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+HARAPPANAHALLI,Millets,2023-07-25T11:31:05.387,"Maize (Makka)",DAVANAGERE,6054278,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಗಳಿವೆ (90 %). ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಯನ್ನು ನೋಡಿ ಹೆಚ್ಚು ಮಳೆಯಾದಲ್ಲಿ ನಿಮ್ಮ ಬೆಳೆಗೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರದವರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999  ಮತ್ತು 9243345433. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+HARAPPANAHALLI,Others,2023-07-25T11:42:29.567,Others,DAVANAGERE,6054192," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ (90%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+GUNDLUPET,"Fiber Crops",2023-07-25T11:43:08.117,"Cotton (Kapas)",CHAMARAJANAGAR,6054521,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 70% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+"BASAVANA BAGEWADI",Millets,2023-07-25T11:54:46.4,"Maize (Makka)",BIJAPUR,6054555,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 70% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+HARAPPANAHALLI,Millets,2023-07-25T11:56:25.49,"Maize (Makka)",DAVANAGERE,6054006,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಗಳಿವೆ (90 %). ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಯನ್ನು ನೋಡಿ ಹೆಚ್ಚು ಮಳೆಯಾದಲ್ಲಿ ನಿಮ್ಮ ಬೆಳೆಗೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರದವರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999  ಮತ್ತು 9243345433. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+SINDAGI,"Fiber Crops",2023-07-25T12:00:53.967,"Cotton (Kapas)",BIJAPUR,6054001,"Market Prices For  Cotton / ಹತ್ತಿ/BANNI / ಬನಿ
+Market	Market Date	Variety	Arrivals	Minimum Price	Maximum Price	Modal Price
+CHITRADURGA	20/07/2023	D.C.H.	738	4409	8469	6663
+KOTTUR	24/07/2023	BT	37	2506	6649	6019
+RAICHUR	24/07/2023	HYBRID-44	4	6400	7200	6800
+RANIBENNUR	20/07/2023	BT	212	1670	8559	6958
+VIJAYAPURA	24/07/2023	BANNI	1198	5004	7361	7038","Asked about market price of Cotton","Market Information",NA,AGRICULTURE,KARNATAKA,25,7,2023
+BAGALKOT,"Sugar and Starch Crops",2023-07-25T12:01:25.277,"Sugarcane (Noble Cane)",BAGALKOT,6054245,"suggested them to spray the 19:19:19 all at the rate of 2gm+ sagarika at the rate of 4gm per liter of water ","Asked about Nutrient management in   sugar cane 
+","Nutrient Management",NA,AGRICULTURE,KARNATAKA,25,7,2023
+HANAGAL,Others,2023-07-24T19:31:33.537,Others,HAVERI,6047832,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ (50%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,24,7,2023
+SIRA,Vegetables,2023-07-24T19:48:43.29,Chillies,TUMKUR,6047844,"Market Prices For  Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ/Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ
+Market	Market Date	Arrivals	Minimum Price	Maximum Price	Modal Price
+BAGEPALLI	23/07/2023	22	6000	8000	6600
+BANGARPET	24/07/2023	2	3000	6500	4700
+BELAGAVI	20/07/2023	2	5500	6000	5800
+BELUR	20/07/2023	56	4400	4800	4400
+BINNY MILL (F&V)	24/07/2023	254	8000	9000	8500
+C.R.NAGAR	22/07/2023	15	3500	5500	4500
+CHANNAPATNA	24/07/2023	3	6000	7000	6500
+CHICKBALLAPUR	24/07/2023	25	5000	7000	6000
+CHIKKAMAGALURU	24/07/2023	69	4269	4669	4469
+CHINTAMANI	24/07/2023	2	5000	7000	6000
+DAVANAGERE	21/07/2023	40	6000	7000	6300
+DODDABALLAPUR	20/07/2023	3	7000	8500	8000
+GADAG	22/07/2023	25	3500	5500	4000
+GUNDLUPET	23/07/2023	6	4230	5705	4700
+HASSAN	20/07/2023	28	6003	6007	6005
+HAVERI	21/07/2023	18	4000	7000	5800
+HONNALI	21/07/2023	10	6500	6500	6500
+HOSAPETE	24/07/2023	20	4000	6000	6000
+KALABURAGI	19/07/2023	20	5500	7500	6500
+KOLAR	24/07/2023	9	4000	8000	6000
+KOPPAL	24/07/2023	60	5000	7050	6025
+MANDYA	21/07/2023	12	5000	6000	5000
+MYSURU	24/07/2023	69	6000	6200	6100
+RAMANAGARA	24/07/2023	10	6000	8000	7000
+RANIBENNUR	18/07/2023	77	5400	6500	6200
+SHIVAMOGGA	24/07/2023	50	4000	6000	5000
+UDIPI	19/07/2023	9	5500	6000	5800
+
+","Asked about Market rate of  CHILLEY 
+","Market Information",NA,HORTICULTURE,KARNATAKA,24,7,2023
+KORATAGERE,Others,2023-07-24T19:54:09.157,Others,TUMKUR,6047858,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಶೇಕಡಾ 80% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,24,7,2023
+AURAD,"Fiber Crops",2023-07-24T20:09:17.01,"Cotton (Kapas)",BIDAR,6047902,"suggested to spray  Copper oxychloride @ 3 g/ltr of water + Streptocycline @ 0.5 g/ltr of water
+","Asked about Disease management 
+","	Plant Protection	",NA,AGRICULTURE,KARNATAKA,24,7,2023
+AFZALPUR,Others,2023-07-24T20:17:30.953,Others,GULBARGA,6047888,"Given necessary information 
+","Asked about General information
+","Government Schemes",NA,AGRICULTURE,KARNATAKA,24,7,2023
+SINDHANUR,Others,2023-07-25T07:29:20.483,Others,RAICHUR,6053973,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಗಳಿವೆ (100 %). ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಯನ್ನು ನೋಡಿ ಹೆಚ್ಚು ಮಳೆಯಾದಲ್ಲಿ ನಿಮ್ಮ ಬೆಳೆಗೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರದವರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999  ಮತ್ತು 9243345433. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+NAGAMANGALA,Cereals,2023-07-25T07:37:19.777,"Paddy (Dhan)",MANDYA,6054090,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 50% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+KUDLIGI,Millets,2023-07-25T08:24:54.567,"Maize (Makka)",BELLARY,6054546,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು  ಸಾಧಾರಣ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ 100 %. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+SINDAGI,Others,2023-07-25T09:33:05.89,Others,BIJAPUR,6054101,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 90% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದ, ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,25,7,2023
+ALAND,Others,2023-07-30T12:50:11.93,Others,GULBARGA,6157579,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 80% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದ, ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,30,7,2023
+BELLARY,Millets,2023-07-30T12:52:45.45,"Maize (Makka)",BELLARY,6157581," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ(20%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,30,7,2023
+AFZALPUR,"Fiber Crops",2023-07-31T07:41:46.55,"Cotton (Kapas)",GULBARGA,6168513,"Suggested to spray Thiomethoxam 0.5 gram per litre
+","Asked about plant protection 
+","	Plant Protection	",NA,AGRICULTURE,KARNATAKA,31,7,2023
+BIJAPUR,Vegetables,2023-07-31T09:03:52.207,Chillies,BIJAPUR,6168469,"suggested to spray pendimethalin at 700 ml per acre","asked about weed management in chilli","Cultural Practices",NA,HORTICULTURE,KARNATAKA,31,7,2023
+JEVARGI,"Plantation Crops",2023-07-30T17:51:14.063,Coconut,GULBARGA,6162843,"Given nessesary information
+","Asked about Weed management 
+","Cultural Practices",NA,HORTICULTURE,KARNATAKA,30,7,2023
+MANVI,Others,2023-07-16T11:18:37.067,Others,RAICHUR,5932752,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ (20%) . ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣ ಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+GULBARGA,Flowers,2023-07-16T16:19:40.187,"China Astor",GULBARGA,5937990,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದ್ದು ಹನಿ ಮಳೆ ನಿರೀಕ್ಷೆ ಇದೆ (೪೦%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+BIJAPUR,Others,2023-07-16T16:20:01.39,Others,BIJAPUR,5937995,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ (30%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+CHAMARAJANAGAR,Vegetables,2023-07-16T16:20:11.87,"Ash Gourd (Petha)",CHAMARAJANAGAR,5938157,"Given necessary information 
+Karnataka forest department 08023343770.","Asked about General information
+","Power, Roads etc.",NA,HORTICULTURE,KARNATAKA,16,7,2023
+KUSHTAGI,Millets,2023-07-16T16:23:22.863,"Maize (Makka)",KOPPAL,5938000,"KUSTAGI	12/07/2023	Hybrid/Local	453	2000	2000","Asked about market price
+","Market Information",NA,AGRICULTURE,KARNATAKA,16,7,2023
+MADDUR,Pulses,2023-07-16T16:39:28.663,"Green Gram (Moong Bean/ Moong)",MANDYA,5938068,"PM KISAN - 08022074132, 08022074192 ಉಪ ಕೃಷಿ ನಿರ್ದೇಶಕರು (ಯೋಜನೆ) 08022074156 08022074114 ಉಪ ಕೃಷಿ ನಿರ್ದೇಶಕರು (ಇ-ಆಡಳಿತ,ರೈ.ಸಂ.ಕೇಂದ್ರ ಮತ್ತು ತರಬೇತಿ, ಪಿಎಂ - ಕಿಸಾನ್ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಕೃಷಿ ವಿಕಾಸ ಯೋಜನಾ  ) 08022074138  08022074163  08022074132  08022074161
+","Asked about PM Kisan samman nidhi Yojana
+","Government Schemes",NA,AGRICULTURE,KARNATAKA,16,7,2023
+KUDLIGI,Others,2023-07-16T16:40:15.51,Others,BELLARY,5938067,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ (20%) . ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣ ಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+HUKERI,Others,2023-07-16T09:28:32.707,Others,BELGAUM,5933426," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ(50%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+KALGHATGI,Others,2023-07-16T08:15:19.65,Others,DHARWAD,5931093,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು  ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ 20 %. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+KALGHATGI,Others,2023-07-16T08:15:19.65,Others,DHARWAD,5931091,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು  ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ 20 %. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+BIDAR,Others,2023-07-16T08:28:23.553,Others,BIDAR,5931082," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ(50%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+MADHUGIRI,Others,2023-07-16T08:29:39.917,Others,TUMKUR,5931088,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು  ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ 20 %. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+RAICHUR,Others,2023-07-16T08:47:52.547,Others,RAICHUR,5931066,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ (50%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+GANGAVATHI,Cereals,2023-07-16T08:49:23.4,"Paddy (Dhan)",KOPPAL,5931074,"Suggested to apply as zinc sulphate ","Asked about application of zinc sulphate","Nutrient Management",NA,AGRICULTURE,KARNATAKA,16,7,2023
+GULBARGA,Others,2023-07-16T09:05:22.23,Others,GULBARGA,5931059,"Precipitation: 60%
+Humidity: 69%
+Wind: 21 km/h
+Weather
+Sunday
+Scattered Thunderstorms","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+MADHUGIRI,Others,2023-07-04T09:49:43.267,Others,TUMKUR,5775813,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಗಳಿವೆ (70 %). ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಯನ್ನು ನೋಡಿ ಹೆಚ್ಚು ಮಳೆಯಾದಲ್ಲಿ ನಿಮ್ಮ ಬೆಳೆಗೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರದವರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999  ಮತ್ತು 9243345433. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,4,7,2023
+RAMDURG,Vegetables,2023-07-04T09:55:22.27,"Beans ",BELGAUM,5775899,"Suggested to drench Perfect COC (Copper Oxychloride 50% Wp) 2g per lit of water.  streptocycline 0.5gm/lit
+Metalaxyl-M 4% + Mancozeb 64% WG - 2 gm/lit
+","Asked about plant protection in Beans","	Plant Protection	",NA,HORTICULTURE,KARNATAKA,4,7,2023
+ATHNI,Vegetables,2023-07-04T09:55:22.583,Chillies,BELGAUM,5775835,"Recommended to spray Imidachloprid 17.8 SL.- 0.5 ml per lit. water.
+","Asked about Plant protection in chilli
+","	Plant Protection	",NA,HORTICULTURE,KARNATAKA,4,7,2023
+BELGAUM,Fruits,2023-07-04T10:36:25.537,Mango,BELGAUM,5776012,"Mango   : Spacing varies from 10 m x 10 m, in the dry zones where growth is less, to 12 m x 12 m,
+Lemon : Spacing between plants should be kept between 6 × 6","Asked about Spacing  in mago and lemon 
+","Cultural Practices",NA,HORTICULTURE,KARNATAKA,4,7,2023
+MANVI,"Fiber Crops",2023-07-20T10:57:18.58,"Cotton (Kapas)",RAICHUR,5980193," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ(90%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,20,7,2023
+SINDAGI,Others,2023-07-20T11:05:42.67,Others,BIJAPUR,5980223,"--Check Status
+Year  (*)	
+2022-2023
+Season  (*)	
+Kharif
+Check Status By Type	ProposalMobile NoAadhaar		
+Mobile No.	
+9686361903
+Captcha	
+ Submit	
+
+   
+
+
+INSURANCE COMPANY - Agriculture Insurance Company of India Ltd
+
+Proposal	MobileNo.	AadhaarNo.	ProposerName.	Status.	Bank.	Branch	 
+724976	XXXXXX903	XXXXXX	MAHMED RAFIQ KARJAGI	ವಿಮಾ ಕಂಪನಿಯಿಂದ ಅರ್ಜಿ ಸ್ವೀಕೃತಿಯಾಗಿದೆ/Application Acknowledge by Insurance Co.	CSC Centers	CSC Centers	Select
+
+
+","Asked about PMFBY crop insurance claim
+","Government Schemes",NA,AGRICULTURE,KARNATAKA,20,7,2023
+HARAPPANAHALLI,Millets,2023-07-20T11:07:43.02,"Maize (Makka)",DAVANAGERE,5980069,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಶೇಕಡಾ 50% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,20,7,2023
+BYADGI,Millets,2023-07-20T11:09:57.23,"Maize (Makka)",HAVERI,5980227,"--Laudis at 7ml/10 litre water for maize weed control
+
+lemon= Lancer gold at 1g per litre water","Asked about cultural practices
+","Cultural Practices",NA,AGRICULTURE,KARNATAKA,20,7,2023
+HIREKERUR,Others,2023-07-20T11:12:34.663,Others,HAVERI,5980229,"Call disconnected by farmer
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,20,7,2023
+"0   ",Others,2023-07-13T18:11:49.29,Others,BELLARY,5896228,"ಇಂದು ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆ ನಿರೀಕ್ಷೆ ಇಲ್ಲ(25%)  ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,13,7,2023
+ALAND,Vegetables,2023-07-13T18:16:38.017,Chillies,GULBARGA,5896336,"Recommended to spray Chloropyriphos 20 EC - 2 ml per lit. water
+","Asked about Plant protection in chilli
+","	Plant Protection	",NA,HORTICULTURE,KARNATAKA,13,7,2023
+"0   ","Sugar and Starch Crops",2023-07-13T18:20:05.637,"Sugarcane (Noble Cane)",BIJAPUR,5896346,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ (100%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,13,7,2023
+GUBBI,Others,2023-07-13T18:20:06.853,Others,TUMKUR,5896232,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇಲ್ಲ (20%) . ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣ ಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,13,7,2023
+HOLALKERE,"Plantation Crops",2023-07-13T18:33:59.617,Arecanut,CHITRADURGA,5896233,"--Market Prices For  Arecanut / ಅಡಿಕೆ/Sippegotu / ಸಿಪ್ಪೆಗೋಟು
+Market	Market Date	Variety	Arrivals	Minimum Price	Maximum Price	Modal Price
+BANTWALA	13/07/2023	Coca	75	12500	25000	22500
+BANTWALA	13/07/2023	New Variety	26	27500	42500	40000
+BANTWALA	13/07/2023	Old Variety	4	46000	49000	47500
+BELTHANGADI	12/07/2023	Coca	5	26000	27000	26500
+BELTHANGADI	12/07/2023	New Variety	22	29000	41800	34000
+BELTHANGADI	10/07/2023	Old Variety	309	41000	46000	43000
+BHADRAVATHI	07/07/2023	Rashi	814	48199	55399	53583
+DAVANAGERE	07/07/2023	Rashi	108	32500	54521	52736
+GUBBI	11/07/2023	Bette	1	39000	40000	40000
+GUBBI	11/07/2023	Chali	1	34000	34000	34000
+KARKALA	12/07/2023	New Variety	10	30000	42500	35000
+KARKALA	12/07/2023	Old Variety	3	40000	49000	47000
+KUMTA	13/07/2023	Chippu	8	25170	35000	33789
+KUMTA	13/07/2023	Coca	3	23222	35399	34089
+KUMTA	13/07/2023	Hale Chali	10	40369	41172	40749
+KUMTA	13/07/2023	Hosa Chali	29	37099	40369	39579
+KUMTA	12/07/2023	Factory	35	14609	22969	21459
+KUNDAPUR	12/07/2023	Hale Chali	8	43500	47000	45000
+KUNDAPUR	12/07/2023	Hosa Chali	58	37000	41500	40000
+SHIVAMOGGA	07/07/2023	Bette	1	45000	55382	53699
+SHIVAMOGGA	07/07/2023	Gorabalu	95	18000	42399	41658
+SHIVAMOGGA	07/07/2023	Rashi	298	39201	56299	54979
+SHIVAMOGGA	07/07/2023	Saraku	1	50599	82496	72640
+SIDDAPURA	07/07/2023	Bilegotu	47	30099	35099	32899
+SIDDAPURA	07/07/2023	Chali	298	36899	40009	39799
+SIDDAPURA	07/07/2023	Coca	26	28099	33899	32899
+SIDDAPURA	07/07/2023	Hale Chali	14	38009	39388	38369
+SIDDAPURA	07/07/2023	Kempugotu	6	31099	34699	33899
+SIDDAPURA	07/07/2023	Rashi	155	46099	53499	52869
+SIDDAPURA	07/07/2023	Tattibettee	7	41669	52009	49899
+SIRA	10/07/2023	Other	38	9000	40000	38684
+SIRSI	13/07/2023	Bette	49	31299	48639	42615
+SIRSI	13/07/2023	Bilegotu	186	25699	35400	33402
+SIRSI	13/07/2023	Chali	422	36299	40808	39100
+SIRSI	13/07/2023	Kempugotu	19	28699	39899	35527
+SIRSI	13/07/2023	Rashi	109	46669	52609	50075
+SORABHA	08/07/2023	Bilegotu	15	30199	31989	30615
+SORABHA	08/07/2023	Chali	39	35399	36499	36228
+SORABHA	08/07/2023	Coca	3	33099	34599	34099
+SORABHA	08/07/2023	Gorabalu	3	31299	38099	35781
+SORABHA	08/07/2023	Rashi	142	40509	55409	53881
+SORABHA	08/07/2023	Sippegotu	23	18313	20313	19646
+YELLAPURA	07/07/2023	Api	1	54399	57179	54399
+YELLAPURA	07/07/2023	Bilegotu	24	24899	36299	32969
+YELLAPURA	07/07/2023	Chali	225	36369	39599	38970
+YELLAPURA	07/07/2023	Coca	56	18899	34099	28899
+YELLAPURA	07/07/2023	Kempugotu	3	29899	35699	33342
+YELLAPURA	07/07/2023	Rashi	98	46299	54309	51899
+YELLAPURA	07/07/2023	Tattibettee	20	41499	48617	45499","Asked about Market rate of    Arecanut
+","Market Information",NA,HORTICULTURE,KARNATAKA,13,7,2023
+ALAND,Others,2023-07-13T18:53:36.313,Others,GULBARGA,5896035," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ(50%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,13,7,2023
+ALAND,Others,2023-07-13T18:53:37.483,Others,GULBARGA,5896033," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ(50%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,13,7,2023
+BELLARY,Vegetables,2023-07-13T18:57:46.49,Chillies,BELLARY,5896010,"Suggested to spray Imidacloprid @ 0.5 ml/ltr of water
+","Asked about Pest management 
+","	Plant Protection	",NA,HORTICULTURE,KARNATAKA,13,7,2023
+BELLARY,Vegetables,2023-07-13T18:58:34.617,Chillies,BELLARY,5896011,"-Suggested to spray 17:17:17 @ 3 g/ltr of water + Vegetable special @ 3 g/ltr of water
+","Asked about nutrient management 
+","Nutrient Management",NA,HORTICULTURE,KARNATAKA,13,7,2023
+MUDHOL,Others,2023-07-19T13:52:15.023,Others,BAGALKOT,5973556,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಶೇಕಡಾ 50% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+"0   ",Others,2023-07-19T14:05:53.93,Others,BAGALKOT,5972094,"Given necessary information 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+"0   ",Fruits,2023-07-19T14:09:19.443,Almond,TUMKUR,5972096,"--PM-Kisan Helpline No. 155261 / 011-24300606 PM KISAN - 08022074132, 08022074192 ಉಪ ಕೃಷಿ ನಿರ್ದೇಶಕರು (ಯೋಜನೆ) 08022074156 08022074114 ಉಪ ಕೃಷಿ ನಿರ್ದೇಶಕರು (ಇ-ಆಡಳಿತ,ರೈ.ಸಂ.ಕೇಂದ್ರ ಮತ್ತು ತರಬೇತಿ, ಪಿಎಂ - ಕಿಸಾನ್ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಕೃಷಿ ವಿಕಾಸ ಯೋಜನಾ  ) 08022074138  08022074163  08022074132  08022074161
+","Asked about PM Kisan samman nidhi Yojana
+","Government Schemes",NA,HORTICULTURE,KARNATAKA,19,7,2023
+CHITAPUR,Pulses,2023-07-19T14:11:55.88,"Pigeon pea (red gram/arhar/tur)",GULBARGA,5971989,"KALABURAGI	19/07/2023	Tur	2529	9002	10189","Asked about market price
+","Market Information",NA,AGRICULTURE,KARNATAKA,19,7,2023
+TUMKUR,Pulses,2023-07-19T14:18:20.137,"Faba Bean (Horse Bean/windsor Bean)",TUMKUR,5972202,"Any pre emergence herbicide has to be mixed with 50 kg of dry sand on the day of application (3 - 4 DAT) and applied uniformly to the field with thin film water on 3rd DAT. Water should not be drained for next 2 days from the field (or) fresh irrigation should not be given.
+Pre emergence application (PE) of Pretilachlor @ 750 g/ha at 3 DAT followed by early post emergence application of Chlorimuron methyl + Metsulfuron methyl @ 4 g/ha on 25 DAT","Asked abo ut General information
+","Weed Management",NA,AGRICULTURE,KARNATAKA,19,7,2023
+MUDDEBIHAL,Others,2023-07-19T14:22:20.907,Others,BIJAPUR,5972196,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 50% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದ, ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+GULBARGA,Flowers,2023-07-19T15:09:56.37,Rose,GULBARGA,5972108,"Recommended to spray Quinalphos 25 EC .- 2 ml per lit. water 
+","Asked about Plant protection in  rose.
+","	Plant Protection	",NA,HORTICULTURE,KARNATAKA,19,7,2023
+GADAG,Oilseeds,2023-07-19T15:29:19.457,"Sunflower (suryamukhi)",GADAG,5972019,"GADAG	18/07/2023	Sunflower	7	4729	4771	4765
+GUNDLUPET	18/07/2023	Other	5	4700	4700	4700
+KALABURAGI	13/07/2023	Sunflower	8	3800	4200	4000","Asked about market rate of  sunflower.                                                                  
+","Market Information",NA,AGRICULTURE,KARNATAKA,19,7,2023
+SANDUR,Vegetables,2023-07-19T11:37:12.127,Brinjal,BELLARY,5965696," suggested them to spray the Quinalphos at the rate of 1.7 ml/lit. of water ","asked about the plant protection in the brinjal ","	Plant Protection	",NA,HORTICULTURE,KARNATAKA,19,7,2023
+INDI,Fruits,2023-07-19T11:40:04.177,Pomegranate,BIJAPUR,5965698,"Spraying Mancozeb @ 2gm per ltr 15 days interval gives good control of the disease.","Asked about plant protection in Pomegranate","	Plant Protection	",NA,HORTICULTURE,KARNATAKA,19,7,2023
+HOSDURGA,Others,2023-07-19T11:40:53.8,Others,CHITRADURGA,5965644,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ (60%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+HIRIYUR,"Plantation Crops",2023-07-19T12:02:42.95,Arecanut,CHITRADURGA,5965683,"suggested application of 17-17-17 NPK @ 300g/palm
+
+boron- 20g
+zinc sulphate - 50 g","Asked about nutrient management in arecanut 
+","Nutrient Management",NA,HORTICULTURE,KARNATAKA,19,7,2023
+JEVARGI,Others,2023-07-19T12:04:58.997,Others,GULBARGA,5965747,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ  ಇಂದು ಮಳೆ ನಿರೀಕ್ಷೆ ಇಲ್ಲ (20%).  ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+HIREKERUR,Millets,2023-07-19T12:10:04.553,"Maize (Makka)",HAVERI,5966335,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು  ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ 100 %. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+Channapanta,Vegetables,2023-07-19T12:13:46.04,Tomato,RAMANAGARA,5965829,"Arka Vishesh, Arka Abed, Arka Apeksha, Arka Rakshak, Arka Samrat etc..
+IIHR : Vegetable seeds : 9164670493
+","Asked about vaieties of tomato","Cultural Practices",NA,HORTICULTURE,KARNATAKA,19,7,2023
+Bagepalli,Others,2023-07-19T12:15:09.737,Others,CHIKKABALLAPUR,5965751,"Call disconnected by farmer
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+KUDLIGI,Others,2023-07-19T12:31:02.207,Others,BELLARY,5972071,"--Suggested to Contact PMFBY Help line number 08026564535,36,37
+
+Year  (*)	
+2022-2023
+Season  (*)	
+Kharif
+Check Status By Type	ProposalMobile NoAadhaar		
+Application No	
+874259
+Captcha	
+ Submit	
+
+   
+
+
+INSURANCE COMPANY - Agriculture Insurance Company of India Ltd
+
+Proposal	MobileNo.	AadhaarNo.	ProposerName.	Status.	Bank.	Branch	 
+874259	XXXXXX435	XXXXXX	Mallappa Yalaguradappa Pattanashetti	ವಿಮಾ ಕಂಪನಿಯಿಂದ ಅರ್ಜಿ ಸ್ವೀಕೃತಿಯಾಗಿದೆ/Application Acknowledge by Insurance Co.	BIJAPUR DCC Bank	BIJAPUR DCCB, NIDAGUNDI	Select
+
+
+
+Application No :874259 - ShortFall % : -20.809204 - Status : Proposal in IU are Not Eligible For CCE-Compensation","Asked about PMFBY crop insurance claim
+","Government Schemes",NA,AGRICULTURE,KARNATAKA,19,7,2023
+PIRIYAPATNA,Others,2023-07-19T12:34:20.967,Others,MYSORE,5971929,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 60% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+Shorapur,"Fiber Crops",2023-07-19T12:44:39.503,"Cotton (Kapas)",YADAGIRI,5971918,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 90% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದ, ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+AURAD,Pulses,2023-07-19T12:49:16.84,"Pigeon pea (red gram/arhar/tur)",BIDAR,5971900," ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ  ಇದೆ(80%). ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ ವರುಣಮಿತ್ರ 08067735999 or 9243345433 ಸಂಪರ್ಕಿಸಬಹುದು.
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,19,7,2023
+MANVI,"Fiber Crops",2023-07-19T15:31:29.577,"Cotton (Kapas)",RAICHUR,5972194,"otton (irrigated)
+
+Apply Pendimethalin @ 3.3 l/ha  three days after sowing, using a hand operated sprayer fitted with deflecting or fan type nozzle. Sufficient moisture should be present in the soil at the time of herbicide application.  This will ensure weed free condition upto 40 days.
+One hand weeding on 45 DAS will keep weed free environment upto 60 DAS.
+Hoe and hand weed between 18th to 20th day of sowing, if herbicide is not applied at the time of sowing.
+","Asked about cultural practices
+","Cultural Practices",NA,AGRICULTURE,KARNATAKA,19,7,2023
+AFZALPUR,Others,2023-07-16T10:57:56.613,Others,GULBARGA,5934234,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಗಳಿವೆ (90 %). ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಯನ್ನು ನೋಡಿ ಹೆಚ್ಚು ಮಳೆಯಾದಲ್ಲಿ ನಿಮ್ಮ ಬೆಳೆಗೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರದವರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999  ಮತ್ತು 9243345433. 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,16,7,2023
+GUBBI,"Plantation Crops",2023-07-10T10:16:45.75,Arecanut,TUMKUR,5856511,"
+line decor
+
+Market Prices For  Arecanut / ಅಡಿಕೆ/Sippegotu / ಸಿಪ್ಪೆಗೋಟು
+Market	Market Date	Variety	Arrivals	Minimum Price	Maximum Price	Modal Price
+BANTWALA	06/07/2023	Coca	71	12500	25000	22500
+BANTWALA	06/07/2023	New Variety	6	27500	41500	39000
+BANTWALA	06/07/2023	Old Variety	4	46000	49000	47500
+BELTHANGADI	06/07/2023	Coca	4	25000	26000	25500
+BELTHANGADI	06/07/2023	New Variety	121	33200	40700	38000
+BHADRAVATHI	07/07/2023	Rashi	814	48199	55399	53583
+CHANNAGIRI	06/07/2023	Rashi	1991	50099	56299	54718
+GUBBI	05/07/2023	Rashi	6	50000	51000	51000
+KARKALA	07/07/2023	New Variety	21	30000	41500	35000
+KARKALA	07/07/2023	Old Variety	9	40000	49000	47500
+KUMTA	07/07/2023	Chippu	50	29999	33099	32629
+KUMTA	07/07/2023	Coca	25	21509	34509	33819
+KUMTA	07/07/2023	Factory	35	14509	22701	21739
+KUMTA	07/07/2023	Hale Chali	100	38899	41009	39769
+KUMTA	07/07/2023	Hosa Chali	250	36999	38969	37749
+KUNDAPUR	08/07/2023	Hale Chali	3	43500	47000	45000
+KUNDAPUR	08/07/2023	Hosa Chali	19	37000	41500	40000
+MADIKERI	04/07/2023	Raw	138	41316	41316	41316
+PUTTUR	06/07/2023	New Variety	40	34000	41500	37750
+SAGAR	06/07/2023	Bilegotu	33	30109	35099	32309
+SAGAR	06/07/2023	Chali	385	34010	39339	38889
+SAGAR	06/07/2023	Coca	14	21009	36699	34899
+SAGAR	06/07/2023	Kempugotu	13	31099	42899	40799
+SAGAR	06/07/2023	Rashi	251	35899	55599	54899
+SAGAR	06/07/2023	Sippegotu	104	12510	22059	21599
+SHIVAMOGGA	07/07/2023	Bette	1	45000	55382	53699
+SHIVAMOGGA	07/07/2023	Gorabalu	95	18000	42399	41658
+SHIVAMOGGA	07/07/2023	Rashi	298	39201	56299	54979
+SHIVAMOGGA	07/07/2023	Saraku	1	50599	82496	72640
+SIDDAPURA	07/07/2023	Bilegotu	47	30099	35099	32899
+SIDDAPURA	07/07/2023	Chali	298	36899	40009	39799
+SIDDAPURA	07/07/2023	Coca	26	28099	33899	32899
+SIDDAPURA	07/07/2023	Hale Chali	14	38009	39388	38369
+SIDDAPURA	07/07/2023	Kempugotu	6	31099	34699	33899
+SIDDAPURA	07/07/2023	Rashi	155	46099	53499	52869
+SIDDAPURA	07/07/2023	Tattibettee	7	41669	52009	49899
+SIRSI	07/07/2023	Bette	49	39099	46669	42793
+SIRSI	07/07/2023	Bilegotu	262	23799	34309	32416
+SIRSI	07/07/2023	Chali	727	34009	40338	38868
+SIRSI	07/07/2023	Kempugotu	22	22589	37499	29135
+SIRSI	07/07/2023	Rashi	137	46699	52499	50700
+YELLAPURA	07/07/2023	Api	1	54399	57179	54399
+YELLAPURA	07/07/2023	Bilegotu	24	24899	36299	32969
+YELLAPURA	07/07/2023	Chali	225	36369	39599	38970
+YELLAPURA	07/07/2023	Coca	56	18899	34099	28899
+YELLAPURA	07/07/2023	Kempugotu	3	29899	35699	33342
+YELLAPURA	07/07/2023	Rashi	98	46299	54309	51899
+YELLAPURA	07/07/2023	Tattibettee	20	41499	48617
+","Asked about Market rate of ARECANUT 
+ ","Market Information",NA,HORTICULTURE,KARNATAKA,10,7,2023
+AFZALPUR,"Fiber Crops",2023-07-10T10:21:58.377,"Cotton (Kapas)",GULBARGA,5856186,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಇಂದು ಮಳೆ ನಿರೀಕ್ಷೆ ಇಲ್ಲ (10%).  ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433,
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,10,7,2023
+GULBARGA,Pulses,2023-07-10T10:25:07.387,"Pigeon pea (red gram/arhar/tur)",GULBARGA,5856055,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ  ಇಂದು ಮಳೆ ನಿರೀಕ್ಷೆ ಇಲ್ಲ (20%).  ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ 08067735999 / 9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,10,7,2023
+BHALKI,Oilseeds,2023-07-10T10:27:00.927,"Soybean (bhat)",BIDAR,5856116,"ಇಂದು ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆ ನಿರೀಕ್ಷೆ ಇಲ್ಲ(20%)  ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999 ಮತ್ತು 9243345433 
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,10,7,2023
+GULBARGA,Pulses,2023-07-10T10:46:56.577,"Pigeon pea (red gram/arhar/tur)",GULBARGA,5856328,"ಇಂದು ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಮಳೆ ನಿರೀಕ್ಷೆ ಇಲ್ಲ(25%)  ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,10,7,2023
+SINDAGI,Others,2023-07-10T15:24:47.593,Others,BIJAPUR,5856170,"ನಿಮ್ಮ ತಾಲೂಕಿನಲ್ಲಿ ಶೇಕಡಾ 50% ಮಳೆ ನಿರೀಕ್ಷೆ ಇದ್ದು  ,  ಭಾಗಶಃ ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ ,   ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ವರುಣ ಮಿತ್ರ ನಂಬರಿಗೆ ಕರೆ ಮಾಡಿ - 08067735999  ಮತ್ತು  9243345433
+","Farmer asked query on Weather",Weather,NA,AGRICULTURE,KARNATAKA,10,7,2023

@@ -66,3 +66,15 @@ I demonstrate C4 by:
   - `deer_hunting_areas_2026_2027.csv` contains all records and all available fields for full browsing/filtering in Excel.
   - `top_5_largest_deer_hunting_areas_2026_2027.csv` is a quick, pre-filtered view for users who only need the top five records.
 - Applying a human-centered data access lens: the same information is often buried in shapefiles or interactive maps, while CSV makes it accessible to people without GIS tools.
+
+## HCD Reflection
+
+As a UX researcher, I think about whether systems are actually working for the people they were built for. Government data is technically public, but that doesn't mean it's actually accessible. Most people don't have GIS software or know how to work with shapefiles — so even though this data exists, it isn't reaching the people who need it.
+
+That matters more than it might seem. WDFW is actively managing deer populations through a complex and frequently updated set of regulations — CWD testing requirements, baiting bans, carcass transport restrictions, lottery draws replacing over-the-counter tags in struggling regions. These are not minor rules. Getting them wrong has real consequences for hunters, for wildlife, and for public health. A hunter who doesn't know they're required to submit a deer head for CWD testing within five days, or that they can't transport a carcass out of Eastern Washington, is not just breaking a rule — they could be contributing to the spread of a fatal disease.
+
+This dataset is also directly useful for WDFW itself. Biologists and wildlife managers need to monitor deer populations and herd health across a large and geographically varied state. Having hunting area data in a clean, structured format makes it easier to cross-reference boundary data with disease outbreak reports, EHD tracking, and harvest numbers. When data is locked in specialist formats, even people inside the agency may struggle to work across datasets quickly.
+
+For the general public, the same accessibility problem becomes a safety problem. If hunting area boundaries and regulation changes are only available in formats that require specialist tools, the people most affected — hunters, rural residents, farmers near these areas — won't find that information when they need it. A local community group, a hunting forum, a journalist covering an EHD outbreak, or a first-time hunter planning a trip can now actually use this data.
+
+That's what HCD means to me here: the gap between data that exists and data that people can act on is a design problem. And closing that gap, even in a small way, is part of what it means to build systems that actually serve the public.

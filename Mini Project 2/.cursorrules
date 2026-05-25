@@ -1,0 +1,84 @@
+# MP2 — UW Walking Partner App (mobile)
+
+Product context and decisions: see `context.md` in this folder.
+
+## What we are building
+
+A **mobile app** for **UW students** (and verified **professors** and **campus police**) to find a **walking partner** after late classes or campus work—not a dating or romance app. Language, UI, and features should emphasize **safety and coordination**, not attraction.
+
+**Primary users:** Students leaving campus late without someone to walk with.
+**Secondary users:** Professors and campus police participating in the trusted community.
+
+## Project constraints
+
+- **Course:** MP2 class project (solo).
+- **Deadline:** Wednesday, May 27, 2026.
+- **App name:** TBD — use folder name `Mini Project 2` until renamed.
+- **Location:** This folder inside the HCDE 530 course repository. Do not edit `Mini Project/` (MP1) or `Week 1/` (nested git repo).
+
+## Onboarding and trust
+
+1. **Survey** — collect intent, comfort, and safety expectations before access.
+2. **Invite code** — required after survey; gates community membership.
+3. **Roles** — `student`, `professor`, `campus_police`; show **verified role badges** on profiles.
+4. **No meet-up posts** until the user is a verified `community_member`.
+
+## Core experience (dating-app *pattern*, safety *purpose*)
+
+- **Profile:** photo (optional), display name, role badge, general direction/availability.
+- **Walk post:** meet-up location, leave time, destination area (e.g. Ave, district, dorm zone).
+- **Discovery:** browse or swipe-style feed of compatible walk posts / people.
+- **Match flow:** express interest → mutual match → coordinate meet-up (chat can be stretch goal).
+- **Active walk:** lightweight “we’re walking” state for coordination.
+
+## Safety and trust (required scope — implement or stub with clear TODOs)
+
+- Block and report user
+- Verified role badges
+- Share live location with a trusted friend (not necessarily the matched partner)
+- Emergency / quick-help entry point
+- Post-walk rating or feedback
+- Route reminders (public, well-lit paths; campus safety copy)
+
+Prioritize **working happy path + visible safety affordances** over polish. Stub backend pieces only with labeled TODOs and no fake “done” UI.
+
+## Tech stack (default unless user says otherwise)
+
+Recommend and use for new work:
+
+- **Expo (React Native)** for the mobile app under `mobile/`
+- **Firebase** (Auth, Firestore) for profiles, posts, matches, and invite-code validation
+
+If the user chooses Flutter or native iOS/Android, follow their choice and update this section in the same edit.
+
+Do not introduce extra frameworks, monorepos, or microservices for MP2.
+
+## MVP phasing (May 27)
+
+**Ship first:** survey + invite gate → profile + role → create walk post → browse/request → basic match state → block/report UI.
+
+**Stretch:** in-app chat, live location sharing, emergency integrations, full ratings.
+
+When time is tight, say so and propose the smallest demo that still tells the safety story.
+
+## How to help the maintainer
+
+- Maintainer is a **UX designer**, not a software engineer: **plain language**, **small scoped changes**, **run + submit checklists** when useful.
+- Explain *why* before large code dumps; one logical step per suggestion when possible.
+- Match existing patterns in this folder; no drive-by refactors; no new markdown/docs unless asked.
+
+## Code and repo conventions
+
+- Keep app code under `Mini Project 2/mobile/` (when created).
+- Use environment variables for API keys; never commit secrets or real student data.
+- Use mock/demo data for screenshots and class demos.
+- Prefer accessible labels, large tap targets, and clear safety copy on critical screens.
+
+## Git
+
+- Commit only when the user asks.
+- Do not `git add` files under `Week 1/` from the parent repo.
+
+## Submission helper
+
+When asked, provide a short checklist: install deps, run Expo, demo path (survey → invite → post → match), what to say about safety features (built vs planned).

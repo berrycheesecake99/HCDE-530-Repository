@@ -1,41 +1,45 @@
-# MP2 Competency Claims — SafeWalk UW
+# MP2 Competency Claims - SafeWalk UW
 
-## C1: Identify — Framing the problem and selecting data sources
+## C1 - Vibecoding and Rapid Prototyping
 
-I identified nighttime pedestrian safety as the core problem for UW students walking home through the U-District after late classes or campus work. I chose the Seattle Police Department open data API (`tazs-3rd5.json`) as the primary data source because it provides geocoded, timestamped crime records that can be filtered to the exact neighborhood, precinct, crime type, and time window relevant to the use case. I also identified OpenStreetMap as a source for street-level attributes (lighting, surface, wheelchair accessibility) that SPD data alone cannot provide.
+I used Lovable and Cursor as rapid prototyping tools to build SafeWalk, a deployed mobile-first web app for UW students walking through the U-District at night. This was not a single-prompt build. I compared several outputs and directions before choosing the final version. Cursor helped me build functional prototypes, including a vanilla HTML/Leaflet version, but the visual design and interaction detail did not feel refined enough for a safety-focused app. I also compared Leaflet, Mapbox, and Google Maps approaches, then chose Google Maps in Lovable because it gave the strongest route-search and navigation experience for the deployed prototype.
 
-**Where to look:** `safety_pipeline.py` lines 26–65 (configuration: API endpoint, neighborhoods, crime categories, nighttime hours), `context.md` (problem framing and user definition).
+The final Lovable app is deployed at <https://bright-stride-shine.lovable.app>. It includes a mock UW NetID login, Google Maps navigation, color-coded safety corridors, walking buddy groups, incident reporting, and SOS emergency contacts. I kept the earlier Leaflet version in the repo as evidence of the prototyping path, but the Lovable version became the final public tool because it better matched the level of polish I wanted.
 
-## C2: Collect — Pulling and combining real-world data from multiple APIs
+**Evidence:** `SafeWalk/` contains the Lovable app; `index.html`, `app.js`, `map.js`, and `style.css` contain the earlier vanilla/Leaflet prototype; the deployed app is linked in `README.md`.
 
-The data pipeline (`safety_pipeline.py`) collects data from two live sources: the Seattle Open Data Socrata API for crime records and the OpenStreetMap network via OSMnx for street geometry with lighting and accessibility tags. The Socrata query uses server-side SoQL filters (precinct, neighborhood list, date range) and pagination to efficiently download only relevant records. The OSMnx call pulls the walkable street network within a 2 km radius of the U-District center, including `lit`, `surface`, and `wheelchair` tags.
+## C2 - Code Literacy and Documentation
 
-**Where to look:** `safety_pipeline.py` — `fetch_crime_data()` (lines 81–116, API pagination), `fetch_street_network()` (lines 145–168, OSMnx with custom tags).
+I documented the project so someone outside the class can understand what SafeWalk does, who it is for, how to access it, and how to run it locally. The `README.md` explains the deployed Lovable app, the Python data pipeline, the data sources, and the project structure in plain language. I also refined the README after checking the code, correcting places where the wording was too broad or inaccurate, such as clarifying that the deployed app uses a lighter demo subset of the GeoJSON and that local Google Maps features may require API environment variables.
 
-## C3: Analyze — Filtering, scoring, and computing corridor-level safety metrics
+My commit messages describe what changed and why, not just "update." For example, I used separate commits for the safety data pipeline, the SafeWalk app/prototype, and the submission files. The Python file is also organized into named functions for each major step: fetching crime data, filtering person-crimes, filtering nighttime hours, pulling the street network, snapping crimes to street segments, computing density, scoring corridors, writing GeoJSON, and generating the map.
 
-The pipeline applies three filtering stages: person-crime categories (assault, robbery, rape, kidnapping, sex offenses), nighttime hours (7 PM–2 AM), and valid coordinates. It then snaps each crime to the nearest street segment using an STRtree spatial index, counts crimes per segment, and computes a composite corridor score (0–100) that combines crime density, lighting penalty, path-type penalty (e.g., stairs), and accessibility penalty (rough surface, wheelchair barriers). The score is bucketed into three levels: "Lower concern," "Use caution," and "Consider alternate route."
+**Evidence:** `README.md`, `safety_pipeline.py`, and commit messages including "Add MP2 safety data pipeline and corridor GeoJSON output" and "Add SafeWalk app: Lovable prototype and vanilla HTML fallback."
 
-**Where to look:** `safety_pipeline.py` — `filter_person_crimes()` (lines 121–127), `filter_nighttime()` (lines 132–140), `snap_crimes_to_edges()` (lines 173–203), `compute_density()` (lines 208–215), `add_accessibility_and_score()` (lines 228–293).
+## C4 - APIs and Data Acquisition
 
-## C4: Build — Designing and implementing the full-stack application
+SafeWalk uses multiple APIs and structured data sources. The Python pipeline calls the Seattle Open Data API endpoint `https://data.seattle.gov/resource/tazs-3rd5.json` to pull SPD crime records. It filters those records by precinct, neighborhood, date, crime category, and nighttime hour. The same pipeline uses OSMnx to pull OpenStreetMap walking-network data around the U-District, including lighting, surface, and wheelchair-accessibility tags.
 
-I built SafeWalk as a mobile-first web app using Lovable (TanStack Start + React + Google Maps). The app has five screens: login, navigate (map with safety overlay, walking directions, live GPS alerts), buddies (major-based walking groups), report (Waze-style incident reporting), and profile (SOS emergency contacts). The navigate screen is the core: it loads the pipeline's GeoJSON, renders color-coded corridors, computes walking routes via the Google Routes API, and fires proactive alerts when the user approaches higher-risk segments during navigation. A separate vanilla HTML/Leaflet prototype (`index.html`, `map.js`) provides a lightweight fallback.
+In addition to structured API data, I also used qualitative community data from Reddit/r/udub posts. I translated those student-reported concerns into a set of `COMMUNITY_HOTSPOTS` in the Lovable app, with names, coordinates, radius values, and short safety tips. These hotspots appear as a separate community layer on the map, so the app combines official SPD data with student-reported lived experience.
 
-**Where to look:** `SafeWalk/src/routes/_app.navigate.tsx` (map, routing, alerts), `SafeWalk/src/routes/_app.buddies.tsx` (groups), `SafeWalk/src/routes/_app.report.tsx` (reporting), `SafeWalk/src/lib/maps.functions.ts` (Google Maps server functions), `index.html` + `map.js` (vanilla prototype).
+The app also uses Google Maps APIs through the Lovable connector. The navigate screen uses place search for destination lookup and walking route computation for turn-by-turn-style route display. I did not commit API keys to the public repository. The README now notes that the live Lovable deployment is the easiest way to view the full map experience, while local development may require Google Maps and Lovable connector environment variables.
 
-## C5: Evaluate — Assessing data quality, accessibility, and safety-score validity
+**Evidence:** `safety_pipeline.py` (`API_URL`, `fetch_crime_data()`, `fetch_street_network()`), `SafeWalk/src/lib/safewalk-data.ts` (`COMMUNITY_HOTSPOTS`), `SafeWalk/src/lib/maps.functions.ts` (Google Places and Routes server functions), and `SafeWalk/src/routes/_app.navigate.tsx` (Google Maps client integration and hotspot rendering).
 
-The corridor score formula weights four factors — crime density (60%), lighting (15%), path type (up to 30% for stairs), and accessibility (up to 35% for rough surfaces or wheelchair barriers) — and caps the composite at 100. I used the 95th percentile of crime density as the normalization ceiling to avoid a single outlier dominating the scale. The pipeline flags segments with `potential_wheelchair_barrier` and `has_accessibility_data` so the app can surface accessibility concerns separately from crime risk. The demo GeoJSON subset (segments with at least one data attribute) was chosen to keep the map overlay performant without losing meaningful coverage.
+## C7 - Critical Evaluation and Professional Judgment
 
-**Where to look:** `safety_pipeline.py` — `add_accessibility_and_score()` (lines 228–293), `write_geojson()` demo filter (lines 335–341).
+I evaluated the AI-generated and platform-generated output instead of accepting the first working version. One example was the map platform decision: the Cursor/Leaflet prototype was functional, but it did not have the level of visual refinement and navigation detail I wanted for a safety app. I compared Leaflet, Mapbox, and Google Maps, then chose Google Maps in Lovable because it produced a clearer, more familiar route-search and walking-navigation experience.
 
-## C6: Communicate — Presenting safety information through visualization and interaction
+I also verified claims about the deployed app and data connection. At first, the deployment URL was inferred incorrectly from metadata, so I checked and used the actual Lovable URL: <https://bright-stride-shine.lovable.app>. I also compared the local GeoJSON files and confirmed that the app's `SafeWalk/public/corridor_safety.geojson` matches the lighter `corridor_safety_demo.geojson`, not the full 19 MB output. That led me to update the README so it accurately describes the deployed app as using a demo subset for performance. I also corrected the README's crime-category wording so it matched the actual pipeline instead of overstating what was filtered.
 
-Safety information is communicated through multiple layers: color-coded corridor lines on the map (green/yellow/orange/red), clickable InfoWindows showing score breakdowns, a bottom-panel legend, live toast alerts during navigation ("Heads up: high-crime corridor ahead"), and community hotspot markers sourced from r/udub. The Folium map (`safety_map.html`) generated by the pipeline provides a standalone visualization with the same color scheme and popup details for anyone reviewing the data without running the app.
+I also decided to supplement official SPD data with qualitative r/udub student reports because public crime records do not capture every place students perceive as unsafe. I kept those hotspots separate from the SPD corridor score so the app does not present qualitative reports as official crime statistics.
 
-**Where to look:** `SafeWalk/src/routes/_app.navigate.tsx` (map layers, alerts, legend), `SafeWalk/src/lib/safewalk-data.ts` — `scoreColor()` and `COMMUNITY_HOTSPOTS`, `safety_pipeline.py` — `generate_map()` (lines 418–458).
+**Evidence:** `README.md` corrections, `SafeWalk/public/corridor_safety.geojson`, `corridor_safety_demo.geojson`, and `safety_pipeline.py`.
 
-## C7: Reflect — Documenting decisions, trade-offs, and professional judgment
+## C8 - Building and Deploying a Complete Tool
 
-See `reflection.md` for the full project reflection covering what was built, design decisions, what I would change, and which competency domains the work demonstrates.
+My MP2 deliverable is a complete deployed tool, not just a local script. SafeWalk is available at <https://bright-stride-shine.lovable.app> and is designed for UW students, professors, and campus police walking through the U-District after dark. The tool combines a real data pipeline with an interactive app: the pipeline creates corridor safety data from SPD crime records and OpenStreetMap street attributes, and the app turns that data into a mobile map experience with navigation, alerts, reporting, buddies, and emergency resources.
+
+The project repository contains the complete code, the deployed app link, a README for non-technical readers, this competency claim file, and `reflection.md`. One limitation is that the app is still a prototype: authentication, walking buddy matching, and incident reports are stored locally rather than in a shared backend. If I continued this project, I would add a real database and shared reporting system so reports and buddy coordination work across devices.
+
+**Evidence:** `SafeWalk/`, `safety_pipeline.py`, `README.md`, `reflection.md`, deployed Lovable URL, and the committed GitHub repository.

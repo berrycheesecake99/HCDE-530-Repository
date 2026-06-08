@@ -6,7 +6,7 @@ A nighttime safety companion for University of Washington students walking home 
 
 ## What it does
 
-SafeWalk helps students who leave campus late at night find safer walking routes and connect with walking buddies. The tool combines real Seattle Police Department crime data with OpenStreetMap street-lighting and accessibility information to score every walkable corridor in the University District on a 0–100 safety scale.
+SafeWalk helps students who leave campus late at night find safer walking routes and connect with walking buddies. The tool combines real Seattle Police Department crime data with OpenStreetMap street-lighting and accessibility information to score walkable street segments in the University District on a 0–100 safety scale. The deployed app displays a lighter demo subset of the scored corridors for map performance.
 
 The app has four main screens:
 
@@ -17,7 +17,7 @@ The app has four main screens:
 
 ## Who it's for
 
-UW students, professors, and campus staff who walk through the U-District after dark and want route-level safety information and a way to coordinate with others heading the same direction.
+UW students, professors, and campus police who walk through the U-District after dark and want route-level safety information and a way to coordinate with others heading the same direction.
 
 ## Project structure
 
@@ -46,9 +46,16 @@ Open the deployed app at **<https://bright-stride-shine.lovable.app>** — no in
 
 ```bash
 cd "Mini Project 2/SafeWalk"
-npm install        # or: bun install
-npm run dev        # starts at http://localhost:5173
+bun install        # or: npm install
+bun run dev        # or: npm run dev; starts at http://localhost:5173
 ```
+
+The deployed Lovable app is the easiest way to view the project. Running the full map experience locally may require Google Maps and Lovable connector environment variables:
+
+- `VITE_LOVABLE_CONNECTOR_GOOGLE_MAPS_BROWSER_KEY`
+- `VITE_LOVABLE_CONNECTOR_GOOGLE_MAPS_TRACKING_ID`
+- `LOVABLE_API_KEY`
+- `GOOGLE_MAPS_API_KEY`
 
 ### Data pipeline (requires Python 3.10+)
 
@@ -64,5 +71,5 @@ Outputs: `corridor_safety.geojson`, `corridor_safety_demo.geojson`, and `safety_
 
 ## Data sources
 
-- [Seattle Police Department crime data](https://data.seattle.gov/resource/tazs-3rd5.json) — nighttime person-crimes (assault, robbery, harassment) in the North Precinct, filtered to the University District and surrounding neighborhoods.
+- [Seattle Police Department crime data](https://data.seattle.gov/resource/tazs-3rd5.json) — nighttime person-crimes including assault, robbery, rape/sex offenses, and kidnapping in the North Precinct, filtered to the University District and surrounding neighborhoods.
 - [OpenStreetMap via OSMnx](https://osmnx.readthedocs.io/) — walkable street network with lighting (`lit`), surface, and wheelchair accessibility tags.

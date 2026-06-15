@@ -1,6 +1,6 @@
 # Week 6 — Mini Project 1 Competency Claims
 
-I am claiming **C3** and **C5** for this project. Each claim below cites specific work from my notebook (`week6_mp1_starter.ipynb`) and supporting script (`combine_translate_kcc.py`).
+I am claiming **C3**, **C5**, and **C6** for this project. Each claim below cites specific work from my notebook (`week6_mp1_starter.ipynb`) and supporting script (`combine_translate_kcc.py`).
 
 ---
 
@@ -35,3 +35,18 @@ My notebook answers six analytical questions about 5,400 KCC farmer queries usin
 One finding I interpreted in the notebook: I grouped queries by `QueryType_clean` and `StateName` across years and found that Weather queries are declining in all three states while Government Schemes queries are rising sharply. That pattern suggested farmers are finding alternative weather sources (e.g., smartphone apps) and increasingly turning to KCC for help navigating government programs — a shift that has staffing implications for KCC call centers.
 
 I also built a keyword-based misclassification audit for the "Cultural Practices" category. Using regex pattern matching on `QueryText`, I inferred an expected category for each row and compared it to the existing tag. About 79% of "Cultural Practices" rows appeared to be mistagged (e.g., queries about pesticides tagged as Cultural Practices instead of Plant Protection). I visualized this with a heatmap and documented the finding as a data-quality limitation.
+
+---
+
+## C6 — Data Visualization and Chart Justification
+
+I am also claiming **C6** because my notebook uses charts to answer specific analytical questions, not just display outputs. I chose each chart type based on the structure of the question and the comparison the reader needed to make:
+
+- **Q1 bar chart:** I used a bar chart for the overall query-type distribution because `QueryType_clean` is categorical. Bars make it easy to compare which farmer issues are most common across the three states, especially when the categories have no natural time order.
+- **Q2 line charts:** I used separate line charts for Karnataka, Maharashtra, and Uttar Pradesh because this question is about change from 2022 to 2024. Lines make the direction of change visible, such as Weather declining while Government Schemes rise.
+- **Cultural Practices heatmap:** I used a heatmap for the misclassification audit because the goal was to compare current tags against expected keyword-based categories. The heatmap makes the mismatch pattern visible at a glance instead of requiring the reader to inspect rows one by one.
+- **Q3 bar charts:** I used bar charts to compare bottom-5 and top-5 districts by call volume, and then to compare what those districts were asking about. This fit the question because the key comparison was across discrete districts and query categories.
+- **Q4 Government Schemes vs. Agronomy Advice chart:** I used a grouped bar chart because the question compares two demand types within the same districts. Placing the two bars side by side makes it easier to see whether a district is calling more for administrative help or technical farming advice.
+- **Q5 crop/technical-query chart:** I used a bar chart for the top crops generating technical queries by state because the question compares crop-specific support needs across categories. The chart helps show which crops drive the most technical demand in different states.
+
+Together, these chart choices make the analysis easier to evaluate because each visual matches the structure of the question: category comparison, time trend, district comparison, or data-quality audit. I also exported the charts as static PNGs in `chart_pngs/` so the visual evidence renders reliably on GitHub even if interactive Plotly output does not load.

@@ -1,0 +1,41 @@
+# End of Quarter Reflection
+
+Most of my quarter centered on two larger pieces of work: a multi-week analysis of how Indian farmers actually use the Kisan Call Centre (KCC) helpline (Week 5, Week 6, and Mini Project 1), and SafeWalk, a deployed nighttime-safety app for UW students (Mini Project 2). The three competency domains below — C5, C6, and C8 — are the ones I can point to with the most specific, verifiable evidence in this repository.
+
+---
+
+## C5 — Data Analysis with Pandas
+
+My strongest pandas evidence is the MP1 KCC analysis (`[Mini Project/Mini Project 1.ipynb](Mini Project/Mini Project%201.ipynb)`), which answers four real questions about a 5,400-row dataset spanning Maharashtra, Karnataka, and Uttar Pradesh. I used `df["QueryType"].value_counts()` to rank what farmers ask about — the executed output shows Weather at 2,317 queries (42.9%) and Government Schemes at 1,100 (20.4%) — and `groupby()` across state, year, and query type to build the 2022–2024 trend tables, plus `nlargest()`/`nsmallest()` to find the highest- and lowest-volume districts. In the Week 5 A5 notebook (`[Week 5/A5/KCC - Farmer Queries and answers.ipynb](Week%205/A5/KCC%20-%20Farmer%20Queries%20and%20answers.ipynb)`), I measured service gaps with a boolean mask, `unanswered_mask = df["KccAns"].isna() | (df["KccAns"].astype(str).str.strip() == "")`, which found 8,771 of 18,081 queries (48.5%) had no recorded answer. I also wrote a keyword classifier with `apply()` to audit the "Cultural Practices" category and flag rows whose text matched a different topic. 
+
+What this demonstrates about my capability is not that I can call pandas functions, but that I can choose the operation that fits the question and read the result as a human-centered finding. The unanswered rate is not just a number — it is a service-design gap. The gap between what KCC was built to do (expert agronomic advice) and what farmers actually call about (weather, schemes) is the kind of insight that changes how a service should be staffed.
+
+---
+
+## C6 — Data Visualization
+
+The MP1 notebook answers each of its four questions with at least one chart — eleven in total — built with Plotly and exported as PNGs in `[Mini Project/chart_pngs/](Mini Project/chart_pngs)`. I chose each chart type from the data structure, and explained why in `[Mini Project/mp1.md](Mini Project/mp1.md)`: bar charts for categorical distributions (Q1, Q3) because the comparisons are between discrete groups with no implied order; line charts for the Q2 trends because the data has a time axis and the direction of change is the point; a stacked bar chart for Q4 because the goal was the proportional split between Government Schemes and Agronomy advice within each district; and a density heatmap for the Cultural Practices audit because it shows a many-to-one mapping between expected and current tags. Each chart has a title that states the finding and is followed by a markdown cell explaining what the chart argues, not what the code does.
+
+A concrete detail I am proud of is the commit `c59395d "Embed Plotly PNG outputs so charts render on GitHub"`. Plotly charts can render as blank cells in GitHub's notebook preview, so I embedded static PNGs to make sure the published analysis is actually readable in a browser by someone who never runs my code. That is what this competency demonstrates for me: choosing a chart form that fits both the data and the audience, and taking responsibility for whether the artifact works for the reader — not just on my own machine.
+
+---
+
+## C8 — Building and Deploying a Complete Tool
+
+SafeWalk is a complete, deployed tool, not a script that only runs locally. It is live at [https://bright-stride-shine.lovable.app](https://bright-stride-shine.lovable.app) and is built for UW students, professors, and campus police walking through the U-District after dark. It pairs a real data pipeline with a usable app. The pipeline (`[Mini Project 2/safety_pipeline.py](Mini Project 2/safety_pipeline.py)`) pulls SPD crime records from the Seattle Open Data API (`https://data.seattle.gov/resource/tazs-3rd5.json`), pulls the walkable street network from OpenStreetMap via OSMnx, filters to nighttime person-crimes, computes a 0–100 safety score per corridor, and writes the results as GeoJSON. The Lovable app (`[Mini Project 2/mp2.md](Mini Project 2/mp2.md)`, `[Mini Project 2/README.md](Mini Project 2/README.md)`) turns that data into a mobile map with walking navigation, color-coded safety corridors, walking-buddy groups, incident reporting, and one-tap SOS contacts.
+
+The honest account of what went wrong is grounded in what we actually hit while building. The first prototype used Leaflet, and it lagged badly the moment you tried to pan across the map — the corridor data simply would not load, because the full GeoJSON is 19 MB and over 32,000 segments. The fix was to ship a lighter demo subset that keeps the map responsive. The other limit was time: we ran out before we could add the layers we had planned — a real UW NetID login and a live, shared incident-reporting system — so authentication, buddy matching, and reports currently stay local to one device instead of syncing through a backend.
+
+What this demonstrates about my capability is that I can keep the user need connected to the technical work instead of treating them as separate pieces. The starting point was not "make a map"; it was the question of what would make a student walking home at night feel more informed in the moment. That question shaped the whole chain: I pulled SPD crime records because the app needed real safety context, filtered to nighttime person-crimes because that matched the walking scenario, used OpenStreetMap street data because safety depends on actual corridors rather than broad neighborhoods, and turned the result into a 0–100 score so the app could communicate risk quickly on a phone. When the first Leaflet version could not handle the full dataset, I made a product decision, to make a smaller demo layer and change from leaflet to using mapbox, and when that also didn't render properly I switched google maps. The same is true of login and live reporting. I know those are the features that would make SafeWalk more like a real community tool, but I also know we did not have time to build them well, so I described them as prototype limits.
+
+---
+
+## One Thing I Learned Outside the Objectives
+
+The biggest thing I learned outside the stated objectives was how to actually work *with* AI tools — both how to direct them and how far to trust them. 
+
+On the directing side, I learned that different models, tools, and modes suit different jobs. In Cursor, I found real value in planning a task with the model first — working out the details together — and only then executing, rather than diving straight in. I also used Ask mode to have the model interview me about which competencies I wanted to claim, which forced me to think more clearly before I wrote anything. That structured way of working carried over when I switched to Lovable in my final week: I used the same plan-then-build approach to think through ideas with the AI and save credits, instead of burning them on half-formed prompts.
+
+The other side was learning not to trust outputs at face value — including my own — and to verify before presenting. This kept showing up. In MP1, a suspicious spike in the "Cultural Practices" category (5–6 queries a year jumping to 40) made me write an audit instead of reporting the trend, and a meaningful share of those rows turned out to be mislabeled. In MP2, I caught that the deployment URL had been inferred from metadata rather than confirmed, so I checked the actual Lovable URL and opened the GeoJSON files to confirm which one the app really loads before writing the README. As a UX designer, I would not show a client a finding I had not verified — and this quarter taught me to apply that same skepticism to data and to AI-generated output, not just to design work.
+
+Together, these habits have given me the confidence to keep building on my own. Learning Cursor, Claude, Lovable, and Bolt showed me that I can prototype my own native apps, put them in front of real users, and keep improving them — and learning pandas opened up an avenue to bring quantitative user-research methods into that work.
